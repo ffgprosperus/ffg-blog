@@ -1,4 +1,4 @@
-baseURL = "https://ffg-blog.com"
+baseURL = "https://ffg-blog.netlify.app/"
 title   = "Timeline"
 languageCode = "en-us"
 theme = "timeline"
