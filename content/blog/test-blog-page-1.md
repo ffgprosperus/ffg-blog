@@ -1,6 +1,5 @@
 +++
 date = 2021-01-14T05:00:00Z
-draft = true
 eventlocation = ""
 eventname = ""
 linktitle = ""
