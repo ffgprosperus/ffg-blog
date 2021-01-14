@@ -1,0 +1,32 @@
+---
+label: Test Blog 1
+hide_body: false
+fields:
+- type: field_group
+  name: author
+  label: author
+  fields:
+  - type: text
+    name: name
+    label: name
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: linktitle
+  label: linktitle
+- type: list
+  name: type
+  label: type
+- type: text
+  name: title
+  label: title
+- type: text
+  name: eventname
+  label: eventname
+- type: text
+  name: eventlocation
+  label: eventlocation
+- type: number
+  name: weight
+  label: weight
