@@ -30,5 +30,3 @@ fields:
 - type: number
   name: weight
   label: weight
-pages:
-- content/blog/test-blog-page-1.md
