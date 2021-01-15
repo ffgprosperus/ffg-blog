@@ -10,4 +10,4 @@ weight = 10
 name = ""
 
 +++
-This is another blog post! Test
+![](/uploads/chrysanthemum.jpg)This is another blog post! Test
