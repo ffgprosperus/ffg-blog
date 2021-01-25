@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 eventlocation = ""
 eventname = ""
 linktitle = ""
