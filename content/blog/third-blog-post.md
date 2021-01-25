@@ -5,7 +5,7 @@ eventname = ""
 linktitle = ""
 title = "Third blog post"
 type = [""]
-weight = nil
+weight = 1
 [author]
 name = "Amy "
 
