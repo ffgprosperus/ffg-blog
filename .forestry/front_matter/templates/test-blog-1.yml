@@ -31,5 +31,6 @@ fields:
   name: weight
   label: weight
 pages:
+- content/blog/apply-to-entrepreneur-training.md
 - content/blog/my-second-blog-post.md
 - content/timeline/title.md
