@@ -32,3 +32,4 @@ fields:
   label: weight
 pages:
 - content/blog/my-second-blog-post.md
+- content/timeline/title.md
