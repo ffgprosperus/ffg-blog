@@ -5,7 +5,7 @@ eventname = "Test Eventname"
 linktitle = "Linktitle"
 title = "Title"
 type = ["Type 1"]
-weight = 1
+weight = 10
 [author]
 name = "Andrew"
 
