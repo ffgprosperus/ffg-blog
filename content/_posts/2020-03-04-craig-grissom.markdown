@@ -25,9 +25,9 @@ _ProsperUS is bringing back the "People of ProsperUS" series, highlighting the
 ## Interview and photos by Kenny Karpov
 
 
-[audio mp3="http://www.prosperusdetroit.org/wp-content/uploads/2020/03/Craig-Interview-Full-Interview.mp3"][/audio]
+[audio mp3="http://localhost:1313/wp-content/uploads/2020/03/Craig-Interview-Full-Interview.mp3"][/audio]
 
-__![](http://www.prosperusdetroit.org/wp-content/uploads/2020/03/Karpov-Craig-Grissom-2-300x200.jpeg)
+__![](http://localhost:1313/wp-content/uploads/2020/03/Karpov-Craig-Grissom-2-300x200.jpeg)
 
 
 
@@ -58,7 +58,7 @@ Even with those degrees and certificates, the employers didn’t want to touch m
 
 I remember asking myself, what am I gonna do with my life now -  I know I don’t want to go back to the streets to the things I was doing in the past to survive.  Because I believe, if I got back into that game, I wasn’t going to survive. It was gonna be the end of me.  So what I did - as I was raised in the church, I prayed to God and cried. I said lord help me. I probably wouldn’t be here in five years. There was no telling where I would end up. In my prayer, God said to me, “bless the child to have his own”. It was as clear as day when he said that to me, “my own” - I took that meaning to develop my own job, create your own path.
 
-![](http://www.prosperusdetroit.org/wp-content/uploads/2020/03/Karpov-Craig-Grissom-5-300x200.jpeg)
+![](http://localhost:1313/wp-content/uploads/2020/03/Karpov-Craig-Grissom-5-300x200.jpeg)
 
 
 At the end of 2009, I started Craig Grissom Handyman Services. I knew how to paint, change minor locks and stuff on doors, change minor pipes and fixtures - faucets and things.  By doing my mom’s lawn when I was a kid, I knew how to manicure a neat lawn, as my mother was a stickler for details. When she would come home and didn’t like the way the lawn was done, she would come find me and do it again until it was done right. After a while, I knew it I did the lawn right the first time, she wouldn’t come looking for me. Not knowing that I perfected this skill for the rest of my life.
@@ -81,7 +81,7 @@ Mind you she is a community developer, so she has a lot of properties to manage.
 
 In the meantime I was working for a cement company, that does driveways, foundations, and parking garages. They were paying me under the table like, $125 per day, and if I work seven days a week, I was pulling in $700 and some change. Which isn't bad. Then March came around, I was approached by Lisa if I was still interested in her offer and we should take a meeting. As this is a Christian organization, It meant a lot to me, as I raised up in the church, and I believe fellowship is essential, meaning that being close to the body works hand in hand, it builds your character, your faith and your foundation. So working with them opposed to working with the cement company, it was my calling, my faith.
 
-![](http://www.prosperusdetroit.org/wp-content/uploads/2020/03/Karpov-Craig-Grissom-300x200.jpeg)
+![](http://localhost:1313/wp-content/uploads/2020/03/Karpov-Craig-Grissom-300x200.jpeg)
 
 
 In this meeting with Lisa, it felt like a fellowship, it felt natural. It didn’t feel like a meeting, it felt like I was supposed to be there, like a glove on hand. Outta this meeting she asked me if Higher Ground, the landscaping company she had, if we could make Higher Ground a self-sustained entity and stand by itself, I will give it to you. I was caught off guard, “give it to me”,  I just met this lady a few times. She offered to pay $250 per week, now at this time I was still making $700 with the cement company.
@@ -104,7 +104,7 @@ One day, Lisa pulled up and asked me to get into her office. She was in her car.
 
 I told her I didn’t know anything about paperwork, balance sheets, PNL’s,  and invoices. She said they would send me to a ProsperUS class, where they will teach you about all this stuff. Going to those classes taught me all the mathematics of running a business. Now that I have the understanding of the mathematics of running a business, everything worked out and I ended up purchasing Higher Ground in 2015 from Lisa Johanon.
 
-![](http://www.prosperusdetroit.org/wp-content/uploads/2020/03/Karpov-Craig-Grissom-3-300x200.jpeg)
+![](http://localhost:1313/wp-content/uploads/2020/03/Karpov-Craig-Grissom-3-300x200.jpeg)
 
 
 The buck stops with me now. I was scared to death. Because I was afraid of failing, but ProsperUS not only taught me how to run a business but to make a business plan. After I completed the classes, I put together my business plan and went to ProsperUS for a loan for my business.
@@ -127,7 +127,7 @@ As of January 2020, I am 5 years in business. I didn’t see this coming, but b
 
 Not only that, I’ve hired practically every young man from the 48202 neighborhood. So it's a win, win for the community. The model is to serve the community and help those residents out. By beautifying the neighborhood. And I’ve been able to create revenue for myself. That neighborhood had a high poverty rate and now the property values have increased. It makes me feel worthy to help those people out, it makes me feel my life has evolved. It brings purpose to me. I am not gonna lie, I’ve made some bad choices in life. And integrity is not what you do when people are watching, it’s what you do when people are not watching you.
 
-![](http://www.prosperusdetroit.org/wp-content/uploads/2020/03/rPqT2kg-300x200.jpeg)
+![](http://localhost:1313/wp-content/uploads/2020/03/rPqT2kg-300x200.jpeg)
 
 
 ProsperUS was a big blessing to me because without their natural backing, I wouldn’t have been able to keep up with my payroll, and I had issues with one of my trucks. The first 90 days you either sink or swim, and when I started seeing my assets growing and my  finances leveling, I knew I was on the right path. The first year I didn’t make any money. Now the second year, I made a few dollars and that money I made I put back into my business to keep it afloat. I was able to pay my bills, I had a couple dollars in my pocket and I was able to pay my taxes and I don’t owe the IRS a nickel...not even a penny.
@@ -148,7 +148,7 @@ So I went to Matthew at ProsperUS and spoke with him about my new business and a
 
 Coming from the penitentiary, my upbringing and to now it’s definitely night and day. With my faith in God, I have seen it, if you only trust him, he can wonder’s. He can introduce to the people who can help you clear these hurdles in life. I just closed on my third loan from ProsperUS for $50,000. My goal is, for the next 2 years is to stop working, as I’ll be 62 in March, is to sit in a chair and have my business working for me. Instead of me working for my business. I’ve been working at this hard now, for the last 10 years and now I have a picture of how I want this all to end up.
 
-![](http://www.prosperusdetroit.org/wp-content/uploads/2020/03/Karpov-Craig-Grissom-6-300x200.jpeg)
+![](http://localhost:1313/wp-content/uploads/2020/03/Karpov-Craig-Grissom-6-300x200.jpeg)
 
 
 Being in prison was an eye-opener for me. I didn’t know I was heading that way or what the repercussions were going to be. And when I woke up from that life, I was in prison. And I was thinking about what in the world am I doing here. I wasn’t raised like that. I took that period to sit myself down and put the blame on me and no one else. When you examine yourself, you find things out, that you were the problem all along.
@@ -159,5 +159,5 @@ When the Salvation Army told me no, that was a huge blow to me. I knew a lot of 
 
 This was in my adult years, I didn’t know what to do. I knew I had to survive, because if you don’t, you’ll turn to what you know best, which are things you picked up in the neighborhood, you knew they weren’t the right things, but you knew it would help you survive. I decided to change my ways in life. And this is the result of me changing my ways in life.
 
-![](http://www.prosperusdetroit.org/wp-content/uploads/2020/03/Karpov-Craig-Grissom-4-300x200.jpeg)
+![](http://localhost:1313/wp-content/uploads/2020/03/Karpov-Craig-Grissom-4-300x200.jpeg)
 

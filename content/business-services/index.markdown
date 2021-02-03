@@ -7,10 +7,10 @@ type: page
 url: /business-services/
 ---
 
-![Business Services - ProsperUS Detroit](http://www.prosperusdetroit.org/wp-content/uploads/2016/10/Business-Services.png)
+![Business Services - ProsperUS Detroit](http://localhost:1313/wp-content/uploads/2016/10/Business-Services.png)
 
 
-The main focus for any entrepreneur is the day-to-day operation of the business. ProsperUS celebrates that by assisting entrepreneurs when specific needs arise through our Business Services Program. Our team offers support by providing access to a network of professional service providers and collaborating to enhance business viability. For ProsperUS, Business Services include [professional](http://www.prosperusdetroit.org/business-service-providers/), [trainer](http://www.prosperusdetroit.org/trainers/), and [ProsperUS Detroit staff](http://www.prosperusdetroit.org/prosperus-staff/) assistance in the areas of Accounting, Bookkeeping, Commercial Real Estate, Graphic Design, Human Resources, Legal, Marketing, Website Development, Food Consulting, and more. _ProsperUS Detroit greatly reduces the cost of service to the entrepreneur based on business or personal income._
+The main focus for any entrepreneur is the day-to-day operation of the business. ProsperUS celebrates that by assisting entrepreneurs when specific needs arise through our Business Services Program. Our team offers support by providing access to a network of professional service providers and collaborating to enhance business viability. For ProsperUS, Business Services include [professional](http://localhost:1313/business-service-providers/), [trainer](http://localhost:1313/trainers/), and [ProsperUS Detroit staff](http://localhost:1313/prosperus-staff/) assistance in the areas of Accounting, Bookkeeping, Commercial Real Estate, Graphic Design, Human Resources, Legal, Marketing, Website Development, Food Consulting, and more. _ProsperUS Detroit greatly reduces the cost of service to the entrepreneur based on business or personal income._
 
 
 ## Who We Serve
@@ -24,6 +24,6 @@ The community of ProsperUS Detroit-supported small businesses consists of many h
 
 ProsperUS Detroit Business Services are available to businesses located in the five target geographies we serve. Applications must clearly articulate how the request will improve business development in order to launch, grow, or overcome an obstacle.
 
-To learn more,  please contact [ProsperUS Detroit](http://www.prosperusdetroit.org/contact-us/). To apply for assistance, please submit the [Business Service / Microloan Intake form](https://www.tfaforms.com/4814770).
+To learn more,  please contact [ProsperUS Detroit](http://localhost:1313/contact-us/). To apply for assistance, please submit the [Business Service / Microloan Intake form](https://www.tfaforms.com/4814770).
 
-**Para una descripción general de ProsperUS Detroit en español, [visite la página](http://www.prosperusdetroit.org/informacion-en-espanol/).**
+**Para una descripción general de ProsperUS Detroit en español, [visite la página](http://localhost:1313/informacion-en-espanol/).**

@@ -24,7 +24,7 @@ categories:
 
 Tamarra Glenn, the founder of Khamilion Kafe, began as a regular nail technician. When a few customers began coming in and requesting medical accommodations to their service most of the nail techs were not interested and did not know what to do. Glenn decided to make it her responsibility to learn about how to treat these clients safely. She discovered that in many cases alterations did need to be made for clients with different illnesses and Glenn taught herself how to treat them. A nail tech can’t service a regular customer the same way as someone with cancer, kidney failure, blood issues, diabetes, etc. 
 
-![](http://www.prosperusdetroit.org/wp-content/uploads/2020/07/Screen-Shot-2020-07-07-at-12.40.41-PM-241x300.png)
+![](http://localhost:1313/wp-content/uploads/2020/07/Screen-Shot-2020-07-07-at-12.40.41-PM-241x300.png)
 “People came in with different conditions and I decided to start educating myself more and because I was mobile and people have conditions and they couldn’t get out I had to learn.”
 
 After beginning to regularly treat different kinds of customers, she realized how much she enjoyed helping people who couldn’t safely receive the regular pedicure service. As a result, she started her own mobile pedicure service. However, because of the nature of some injuries and illnesses, Glenn did not have the medical certification to work with them. However, this did not deter her at all. 
@@ -42,7 +42,7 @@ Her goal is to be akin to an orthodontist working with a dentist. Podiatrists of
 
 
 With a medical certification, Glenn will also be able to do toenail reconstruction that not only treats the customer’s condition but makes them feel beautiful too. She wants her clients to be able to do things such as wearing sandals without feeling embarrassed. Beyond this, she wants to make other nail techs aware of this customer demographic and educate them on how to treat these clients because often if the nail tech is not educated they can worsen the injury.
-![](http://www.prosperusdetroit.org/wp-content/uploads/2020/07/Screen-Shot-2020-07-01-at-2.38.33-PM-244x300.png)
+![](http://localhost:1313/wp-content/uploads/2020/07/Screen-Shot-2020-07-01-at-2.38.33-PM-244x300.png)
 
 
 Glenn continues to educate herself by attending additional workshops and training. She also uses a medical questionnaire when people need specialized care and even asks people what medications they’re on so she can learn about the side effects. Because she is mobile Glenn is also able to serve seniors that have to rely on other people to be mobile.

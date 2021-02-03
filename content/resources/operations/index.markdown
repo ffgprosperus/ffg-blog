@@ -24,13 +24,13 @@ You can use the templates and worksheets below to get an idea of how to success
 
 
 
- 	  * [Patent Information](http://www.prosperusdetroit.org/wp-content/uploads/2017/02/Patent-Information.pdf) - Information regarding the creation and process of developing a patent for your company
- 	  * [Patents Trade and Copyrights Protections](http://www.prosperusdetroit.org/wp-content/uploads/2017/02/Patents-Trade-and-Copyrights-Protections.pdf) - Many resources for trade, copyright, and other IP laws
- 	  * [Food Service Licensing](http://www.prosperusdetroit.org/wp-content/uploads/2017/02/Food-Service-Licensing-2.pdf) - Helpful information and links about getting licensed to serve food
- 	  * [Business License Checklist](http://www.prosperusdetroit.org/wp-content/uploads/2017/02/Business-License-Checklist.pdf) - Ways in which to receive a business license
- 	  * [City of Detroit Ag Ordinance](http://www.prosperusdetroit.org/wp-content/uploads/2017/02/city-of-detroit-ag-ordinance.pdf) - Definitions, key terms, and processes helpful for use in
- 	  * [Commercial Building Permit Plan Checklist 2013-06](http://www.prosperusdetroit.org/wp-content/uploads/2017/02/Comm-Bldg-Permit-Plan-Checklist_2013-06.pdf) - Commercial building plan checklists for all types of buildings
- 	  * [COMPLETE Plan Review Packet 08-14](http://www.prosperusdetroit.org/wp-content/uploads/2017/02/COMPLETE-Plan-Review-Packet-08-14.doc) - A guide to opening a full service establishment
+ 	  * [Patent Information](http://localhost:1313/wp-content/uploads/2017/02/Patent-Information.pdf) - Information regarding the creation and process of developing a patent for your company
+ 	  * [Patents Trade and Copyrights Protections](http://localhost:1313/wp-content/uploads/2017/02/Patents-Trade-and-Copyrights-Protections.pdf) - Many resources for trade, copyright, and other IP laws
+ 	  * [Food Service Licensing](http://localhost:1313/wp-content/uploads/2017/02/Food-Service-Licensing-2.pdf) - Helpful information and links about getting licensed to serve food
+ 	  * [Business License Checklist](http://localhost:1313/wp-content/uploads/2017/02/Business-License-Checklist.pdf) - Ways in which to receive a business license
+ 	  * [City of Detroit Ag Ordinance](http://localhost:1313/wp-content/uploads/2017/02/city-of-detroit-ag-ordinance.pdf) - Definitions, key terms, and processes helpful for use in
+ 	  * [Commercial Building Permit Plan Checklist 2013-06](http://localhost:1313/wp-content/uploads/2017/02/Comm-Bldg-Permit-Plan-Checklist_2013-06.pdf) - Commercial building plan checklists for all types of buildings
+ 	  * [COMPLETE Plan Review Packet 08-14](http://localhost:1313/wp-content/uploads/2017/02/COMPLETE-Plan-Review-Packet-08-14.doc) - A guide to opening a full service establishment
 
 
 
@@ -40,8 +40,8 @@ You can use the templates and worksheets below to get an idea of how to success
 
 
 
- 	  * [Facility/Operations Worksheets](http://www.prosperusdetroit.org/wp-content/uploads/2017/02/Session-6-Worksheet-Operations.doc) - Worksheets to organize information regarding the facility, production processes, business schedules (per day, per week), operational planning, equipment resources, inventory management, and job applications
- 	  * [Inventory List](http://www.prosperusdetroit.org/wp-content/uploads/2017/02/Inventory-list1.pdf) - A blank sheet for ordering inventory
+ 	  * [Facility/Operations Worksheets](http://localhost:1313/wp-content/uploads/2017/02/Session-6-Worksheet-Operations.doc) - Worksheets to organize information regarding the facility, production processes, business schedules (per day, per week), operational planning, equipment resources, inventory management, and job applications
+ 	  * [Inventory List](http://localhost:1313/wp-content/uploads/2017/02/Inventory-list1.pdf) - A blank sheet for ordering inventory
 
 
 

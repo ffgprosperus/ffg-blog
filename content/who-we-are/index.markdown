@@ -7,7 +7,7 @@ type: page
 url: /who-we-are/
 ---
 
-![who-we-are](http://www.prosperusdetroit.org/wp-content/uploads/2016/10/Who-We-Are.png)
+![who-we-are](http://localhost:1313/wp-content/uploads/2016/10/Who-We-Are.png)
 
 ProsperUS Detroit is a place-based economic development strategy designed to empower low and moderate income, immigrant and minority individuals. Through our culturally competent range of services, we strive to support the entrepreneurial spirit and small business community that exists in Detroit’s neighborhoods.
 
@@ -51,4 +51,4 @@ A comprehensive, flexible, long-term approach helps entrepreneurs succeed in a c
 **INNOVATION**
 Improvement and innovation fueled by regular evaluation, lead to our sustained effectiveness.
 
-**Para una descripción general de ProsperUS Detroit en español, [visite la página](http://www.prosperusdetroit.org/informacion-en-espanol/).**
+**Para una descripción general de ProsperUS Detroit en español, [visite la página](http://localhost:1313/informacion-en-espanol/).**

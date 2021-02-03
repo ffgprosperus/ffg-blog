@@ -26,7 +26,7 @@ Laura Alvarado, the founder of Tropical Sweets Cakes, has been baking since she 
 
 Alvarado taught herself how to create beautiful custom cakes first in Puerto Rico and now she applies her skills here in Detroit.
 
-![](http://www.prosperusdetroit.org/wp-content/uploads/2020/07/Screen-Shot-2020-06-25-at-4.05.49-PM-221x300.png)
+![](http://localhost:1313/wp-content/uploads/2020/07/Screen-Shot-2020-06-25-at-4.05.49-PM-221x300.png)
 
 
 Inspired by her aunt, Alvarado began baking more cakes and improving her skill. She discovered that, like her family, she had a talent for baking. “I’ve never been to school. Never been taught by anybody but myself. Just from an inspiration, seeing my auntie. Actually it was my aunt doing my Grandmother’s 50th-anniversary cake and I wanted to see how it felt so she let me do a little bit of frosting one it. I think that’s what motivated me the most.”  
@@ -38,7 +38,7 @@ However, when Alvarado moved to Detroit she stopped for a while, not entirely su
 Still, Alvarado’s baking abilities shined through and she began receiving requests for custom cakes allowing her to rediscover her love for baking them. She began to look at baking cakes as a viable career. Soon after she was accepted to ProsperUS’s Entrepreneur Training Program.
 
 
-<blockquote>“Coming to ProsperUS made me realize you know, you can do it. Go for it. I wasn’t completely 100% sure that that’s what I envisioned to do and doing [the ProsperUS Entrepreneur Training Program] motivated me to go out there and not be scared.” ![](http://www.prosperusdetroit.org/wp-content/uploads/2020/07/Screen-Shot-2020-06-25-at-4.06.27-PM-218x300.png)
+<blockquote>“Coming to ProsperUS made me realize you know, you can do it. Go for it. I wasn’t completely 100% sure that that’s what I envisioned to do and doing [the ProsperUS Entrepreneur Training Program] motivated me to go out there and not be scared.” ![](http://localhost:1313/wp-content/uploads/2020/07/Screen-Shot-2020-06-25-at-4.06.27-PM-218x300.png)
 </blockquote>
 
 

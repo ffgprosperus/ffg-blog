@@ -1,4 +1,4 @@
-baseURL = ""https://ffg-blog.netlify.app/"
+baseURL = "https://ffg-blog.netlify.app/"
 languageCode = "en-us"
 title = "Prosper Us Detroit"
 theme = "ananke"

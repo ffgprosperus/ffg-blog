@@ -32,7 +32,7 @@ tags:
 <td class="x_mcnTextContent" valign="top" >
 
 
-# **_![](http://www.prosperusdetroit.org/wp-content/uploads/2020/02/logo-prosperus-300x171.png)
+# **_![](http://localhost:1313/wp-content/uploads/2020/02/logo-prosperus-300x171.png)
 _**Check back here for up to date information.
 
 
@@ -189,7 +189,7 @@ Health resources:
 
 Miscellaneous resources:
 
-Check out [HealthyLife Letter's fun coloring pages and helpful information](http://www.prosperusdetroit.org/wp-content/uploads/2020/03/Healthy-Life_May_June_2020.pdf) on best mask practices and dealing with stress.
+Check out [HealthyLife Letter's fun coloring pages and helpful information](http://localhost:1313/wp-content/uploads/2020/03/Healthy-Life_May_June_2020.pdf) on best mask practices and dealing with stress.
 </td>
 </tr>
 </tbody>

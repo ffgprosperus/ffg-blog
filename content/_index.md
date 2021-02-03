@@ -31,7 +31,7 @@ url: /
 
 
 
-##### [ProsperUS x Flagstar Bank grant winners announced](http://www.prosperusdetroit.org/2020/11/02/flagstar/)[!](http://www.prosperusdetroit.org/2020/11/02/flagstar/)
+##### [ProsperUS x Flagstar Bank grant winners announced](http://localhost:1313/2020/11/02/flagstar/)[!](http://localhost:1313/2020/11/02/flagstar/)
 
 
 
@@ -43,7 +43,7 @@ url: /
 
 
 
-##### [Our statement on COVID-19 and helpful resources.](http://www.prosperusdetroit.org/2020/03/18/covid/)
+##### [Our statement on COVID-19 and helpful resources.](http://localhost:1313/2020/03/18/covid/)
 
 
 
@@ -60,9 +60,9 @@ url: /
 
 
 
-![hm-ppu-top01](http://www.prosperusdetroit.org/wp-content/uploads/2016/10/hm-ppu-top01-1.jpg)
-![hm-ppu-top02](http://www.prosperusdetroit.org/wp-content/uploads/2016/10/hm-ppu-top02-1.jpg)
-![hm-ppu-top03](http://www.prosperusdetroit.org/wp-content/uploads/2016/10/hm-ppu-top03-1.jpg)
+![hm-ppu-top01](http://localhost:1313/wp-content/uploads/2016/10/hm-ppu-top01-1.jpg)
+![hm-ppu-top02](http://localhost:1313/wp-content/uploads/2016/10/hm-ppu-top02-1.jpg)
+![hm-ppu-top03](http://localhost:1313/wp-content/uploads/2016/10/hm-ppu-top03-1.jpg)
 
 
 
@@ -83,7 +83,7 @@ url: /
 
 
 
-#### [Entrepreneur Training](http://www.prosperusdetroit.org/entrepreneur-training/)
+#### [Entrepreneur Training](http://localhost:1313/entrepreneur-training/)
 
 
 A comprehensive, 20-week entrepreneur training program that helps participants realize their potential and develop a business plan.
@@ -96,7 +96,7 @@ A comprehensive, 20-week entrepreneur training program that helps participants 
 
 
 
-#### [Business Services](http://www.prosperusdetroit.org/business-services/)
+#### [Business Services](http://localhost:1313/business-services/)
 
 
 Professional assistance in the areas of Accounting, Commercial Real Estate, Graphic Design, Human Resources, Legal, Marketing, Website Development, and more.
@@ -109,7 +109,7 @@ Professional assistance in the areas of Accounting, Commercial Real Estate, Grap
 
 
 
-#### [Micro-Lending](http://www.prosperusdetroit.org/micro-lending/)
+#### [Micro-Lending](http://localhost:1313/micro-lending/)
 
 
 Provides access to capital for start-up and existing small businesses including financing up to $15,000 for start-up businesses and up to $25,000 for existing businesses.

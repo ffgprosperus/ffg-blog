@@ -7,7 +7,7 @@ type: page
 url: /informacion-en-espanol/
 ---
 
-![en-espanol-header](http://www.prosperusdetroit.org/wp-content/uploads/2016/10/En-Espanol-header-300x111.png)
+![en-espanol-header](http://localhost:1313/wp-content/uploads/2016/10/En-Espanol-header-300x111.png)
 
 
 ProsperUS Detroit es una estrategia de desarrollo económico basado en el lugar diseñado para empoderar a las siguiente poblaciones: personas de ingresos bajos y moderados, los inmigrantes y minorías incluyendo sus barrios.
@@ -27,7 +27,7 @@ ProsperUS Detroit es una estrategia de desarrollo económico basado en el lugar 
 
 _* La competencia cultural se refiere a una forma en la cual uno respeta y honra los valores y creencias de individuos y familias de diferentes culturas._
 
-Para aplicar en español favor de [bajar la aplicación](http://www.prosperusdetroit.org/wp-content/uploads/2016/10/PUD.ETPApplicationSpanish.Jan2017.Fillable.pdf), imprime la solicitud y envié a 2835 Bagley, Suite 800, Detroit, MI 48216. También es aceptable entregar la aplicación en persona, nuestra oficina está ubicada en el segundo piso en el mismo edificio de la Secretaria del Estado.
+Para aplicar en español favor de [bajar la aplicación](http://localhost:1313/wp-content/uploads/2016/10/PUD.ETPApplicationSpanish.Jan2017.Fillable.pdf), imprime la solicitud y envié a 2835 Bagley, Suite 800, Detroit, MI 48216. También es aceptable entregar la aplicación en persona, nuestra oficina está ubicada en el segundo piso en el mismo edificio de la Secretaria del Estado.
 
 **SERVICIOS DE NEGOCIOS**
 
@@ -61,7 +61,7 @@ Nuestro programa de entrenamiento fue desarrollado hace más de 20 años por una
 ## Áreas Que Servimos en Detroit
 
 
-[![map-home](http://www.prosperusdetroit.org/wp-content/uploads/2016/10/map-home.jpg)
+[![map-home](http://localhost:1313/wp-content/uploads/2016/10/map-home.jpg)
 ](https://www.google.com/maps/d/viewer?mid=1PMYssio8sPeSjTEMVtRaP-Ij_x8)
 
 Seleccione el mapa para ver las empresas que han trabajado con ProsperUS.

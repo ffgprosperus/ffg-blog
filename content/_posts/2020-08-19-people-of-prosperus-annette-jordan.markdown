@@ -25,7 +25,7 @@ tags:
 Annette Jordan, founder of Goddess Life Botanicals, is a registered nurse and herbalist striving to help people be healthier through a variety of original products including several types of herbs, oils, and supplements. 
 
 
-<blockquote>“Our plan is to make small-batch products to help improve your transformation to a more beautiful, vibrate, and energetic lifestyle through Herbs, life food, extracts, oils, essential oils, and body shea butters.”![](http://www.prosperusdetroit.org/wp-content/uploads/2020/08/DSC_0204-300x226.jpg)
+<blockquote>“Our plan is to make small-batch products to help improve your transformation to a more beautiful, vibrate, and energetic lifestyle through Herbs, life food, extracts, oils, essential oils, and body shea butters.”![](http://localhost:1313/wp-content/uploads/2020/08/DSC_0204-300x226.jpg)
 
 </blockquote>
 
@@ -42,7 +42,7 @@ When Jordan’s mother was diagnosed with cancer she decided to seek out holisti
 <blockquote>“I started an eBay business first not knowing that it would take off like it did. It did so well that I needed to come off of eBay because I was paying eBay way too many fees.”</blockquote>
 
 
-Jordan’s products not only sold well but worked helping her customers feel healthier and keep coming back for more. After realizing the demand for her products, Jordan stopped selling on eBay and established her company, Goddess Life Botanicals.![](http://www.prosperusdetroit.org/wp-content/uploads/2020/08/SMG10-300x180.jpg)
+Jordan’s products not only sold well but worked helping her customers feel healthier and keep coming back for more. After realizing the demand for her products, Jordan stopped selling on eBay and established her company, Goddess Life Botanicals.![](http://localhost:1313/wp-content/uploads/2020/08/SMG10-300x180.jpg)
 
 
 

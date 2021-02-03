@@ -102,7 +102,7 @@ You will be compensated for class time and one on one meetings as well as any ad
 
 
 
-More information on the entrepreneur training program is available here: [LINK](https://nam12.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.prosperusdetroit.org%2Fentrepreneur-training%2F&data=02%7C01%7Cakaplowitz%40swsol.org%7Cadf47a12d0a041f6908008d80d715130%7Cecdd61640dbd4227b0986de8e52525ca%7C0%7C0%7C637274127640612829&sdata=obIK5vHgm3xVdI2nMFeSU0p%2BocjwEyLf%2FbxEnuOyZ44%3D&reserved=0)
+More information on the entrepreneur training program is available here: [LINK](https://nam12.safelinks.protection.outlook.com/?url=http%3A%2F%2Flocalhost:1313%2Fentrepreneur-training%2F&data=02%7C01%7Cakaplowitz%40swsol.org%7Cadf47a12d0a041f6908008d80d715130%7Cecdd61640dbd4227b0986de8e52525ca%7C0%7C0%7C637274127640612829&sdata=obIK5vHgm3xVdI2nMFeSU0p%2BocjwEyLf%2FbxEnuOyZ44%3D&reserved=0)
 
 
 

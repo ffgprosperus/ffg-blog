@@ -28,8 +28,8 @@ A chef all of her life, Detroit native Enid Parham puts a twist on food by combi
 <blockquote>[Enid described her meals as] “a healing ailment and temporary relief from pain and anxiety without having to pop a pill.”</blockquote>
 
 
-[![](http://www.prosperusdetroit.org/wp-content/uploads/2020/11/lucky-pistil.jpg)
-](http://www.prosperusdetroit.org/wp-content/uploads/2020/11/lucky-pistil.jpg)It took about a year for Parham to start the company after registering its name, because Parham faced additional barriers due to the cannabis-related nature of her business. Because of the cannabis element, the legal registration process was longer, more difficult, and most of all expensive. 
+[![](http://localhost:1313/wp-content/uploads/2020/11/lucky-pistil.jpg)
+](http://localhost:1313/wp-content/uploads/2020/11/lucky-pistil.jpg)It took about a year for Parham to start the company after registering its name, because Parham faced additional barriers due to the cannabis-related nature of her business. Because of the cannabis element, the legal registration process was longer, more difficult, and most of all expensive. 
 
 The cost to legally start a cannabis business is a whopping $6,000. Although cannabis is legal for recreational use in Michigan, businesses face their own set of regulations and require expensive permits. 
 

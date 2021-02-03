@@ -7,7 +7,7 @@ type: page
 url: /micro-lending/
 ---
 
-![Micro-Lending - ProsperUS Detroit](http://www.prosperusdetroit.org/wp-content/uploads/2016/10/Micro-Lending.png)
+![Micro-Lending - ProsperUS Detroit](http://localhost:1313/wp-content/uploads/2016/10/Micro-Lending.png)
 
 
 The ProsperUS Detroit Lending Program provides access to capital for start-up and existing small businesses that otherwise might not have access with traditional sources. ProsperUS Detroit provides financing up to $50,000 for business located in Detroit.
@@ -24,7 +24,7 @@ Since 2014, ProsperUS Detroit has made almost $500,000 in micro-loans to over 25
 
 **DEMOGRAPHICS of BORROWERS:**
 
-![borrower-graph](http://www.prosperusdetroit.org/wp-content/uploads/2016/10/borrower-graph.png)
+![borrower-graph](http://localhost:1313/wp-content/uploads/2016/10/borrower-graph.png)
 
 
 
@@ -33,6 +33,6 @@ Since 2014, ProsperUS Detroit has made almost $500,000 in micro-loans to over 25
 
 Businesses must be in a ProsperUS Detroit target neighborhood or intend to establish in a ProsperUS Detroit neighborhood. Loan funds may be used for working capital, machinery, marketing, construction, furniture, fixtures, equipment and more. We will help potential borrowers determine their needs and accomplish the loan application process.
 
-To learn more,  please contact [ProsperUS Detroit](http://www.prosperusdetroit.org/contact-us/). To apply for assistance, please submit the [Business Service / Microloan Intake form](https://www.tfaforms.com/4814770).
+To learn more,  please contact [ProsperUS Detroit](http://localhost:1313/contact-us/). To apply for assistance, please submit the [Business Service / Microloan Intake form](https://www.tfaforms.com/4814770).
 
-**Para una descripción general de ProsperUS Detroit en español, [visite la página](http://www.prosperusdetroit.org/informacion-en-espanol/).**
+**Para una descripción general de ProsperUS Detroit en español, [visite la página](http://localhost:1313/informacion-en-espanol/).**

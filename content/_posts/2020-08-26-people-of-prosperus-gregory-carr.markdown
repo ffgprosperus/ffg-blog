@@ -27,7 +27,7 @@ Gregory Carr, owner of Tall Greg Art, creates fine art for individuals as well a
 Carr received a bachelor of arts from the College For Creative Studies with a major in illustration.  From there, he ventured into commercial art, hoping to do creative advertisements.  However, he did not find such a venture to be creatively stimulating.  Carr wanted to sell his art during college, but found that the art world isn’t the most transparent about who is making the large purchases.  Thankfully, Carr found ProsperUS’ business services through a google search, allowing him to morph his creation of fine art into an LLC.  Carr traces his knowledge about the “bigger concepts associated with business” back to ProsperUS.  
 
 
-<blockquote>“You can’t know what you don’t know.” ![](http://www.prosperusdetroit.org/wp-content/uploads/2020/08/Oberon-240x300.jpg)
+<blockquote>“You can’t know what you don’t know.” ![](http://localhost:1313/wp-content/uploads/2020/08/Oberon-240x300.jpg)
 
 </blockquote>
 
@@ -45,5 +45,5 @@ Carr is currently linking up with a mentor who will be allowing Carr to set up a
  	  * Website: [tall-greg.com](http://tall-greg.com/)
  	  * Social Media: https://www.instagram.com/tall_greg_art/
 
-![](http://www.prosperusdetroit.org/wp-content/uploads/2020/08/ApplesandHoney3-300x300.jpg)
+![](http://localhost:1313/wp-content/uploads/2020/08/ApplesandHoney3-300x300.jpg)
 

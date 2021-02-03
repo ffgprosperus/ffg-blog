@@ -32,7 +32,7 @@ With the guidance of her close friend and the hopes of reaching her goals for th
 After graduating from the ProsperUs Entrepreneur Training Program in 2019, Planas was able to obtain her license and legally formalize her company. This was a significant achievement, as she was one step closer to working for herself and staying at home with her kids:
 
 
-<blockquote>“The ultimate goal is to be home and to be able to raise them.” ![](http://www.prosperusdetroit.org/wp-content/uploads/2020/11/havanasandwhicj.jpg)
+<blockquote>“The ultimate goal is to be home and to be able to raise them.” ![](http://localhost:1313/wp-content/uploads/2020/11/havanasandwhicj.jpg)
 </blockquote>
 
 
@@ -46,7 +46,7 @@ In addition to mentorship, the support of her community and contact with entrepr
 
 Upon joining the Tapestry Fellowship, Planas’s goals included calculating the specific numbers of how much she was investing in her ingredients, and getting mentorship on obtaining permits for her business. She is still in the process of completing these and anticipates completion soon, but she has met her goal of renewing her business insurance with the lending circle funds. 
 
-In the future, Planas aspires to have a registered, successful food truck. ![](http://www.prosperusdetroit.org/wp-content/uploads/2020/11/havanalogo-1.jpg)
+In the future, Planas aspires to have a registered, successful food truck. ![](http://localhost:1313/wp-content/uploads/2020/11/havanalogo-1.jpg)
 
 
 

@@ -7,7 +7,7 @@ type: page
 url: /entrepreneur-training/
 ---
 
-![untitled-design-4](http://www.prosperusdetroit.org/wp-content/uploads/2016/10/Untitled-design-4-300x111.png)
+![untitled-design-4](http://localhost:1313/wp-content/uploads/2016/10/Untitled-design-4-300x111.png)
 
 
 
@@ -29,7 +29,7 @@ url: /entrepreneur-training/
 ### In light of best practices regarding COVID-19 interviews and classes will be held via Zoom for all 2020 and potentially 2021.
 
 
-The ProsperUS Detroit Entrepreneur Training program utilizes a place-based focus to economic development. In collaboration with [Community Partners](http://www.prosperusdetroit.org/community-partners/) in specific areas in the city seen as having barriers to economic development and stability, we offer a comprehensive, 15-week entrepreneur training program that helps participants realize their potential, develop a business plan, and get their business off the ground. Through this program, we look to our entrepreneurs to be examples, leaders, and potentially employers, in these communities as business owners.
+The ProsperUS Detroit Entrepreneur Training program utilizes a place-based focus to economic development. In collaboration with [Community Partners](http://localhost:1313/community-partners/) in specific areas in the city seen as having barriers to economic development and stability, we offer a comprehensive, 15-week entrepreneur training program that helps participants realize their potential, develop a business plan, and get their business off the ground. Through this program, we look to our entrepreneurs to be examples, leaders, and potentially employers, in these communities as business owners.
 
 This course offers participants an overview of fundamental business principals as well as dedicated one-on-one support. By graduation participants should understand their business model, market, and finances. We expect and support participants as they legally register their business, create budgets and systems of bookkeeping, and write a business plan.
 
@@ -57,10 +57,10 @@ Applicants will be assigned to sites based on geography. We only accept applican
 
 **TARGET GEOGRAPHIES:** _(For a more detailed view, please click on the map below.)_
 
-[![ProsperUS Detroit Open for Business Map - Target Geographies](http://www.prosperusdetroit.org/wp-content/uploads/2016/10/map-home.jpg)
+[![ProsperUS Detroit Open for Business Map - Target Geographies](http://localhost:1313/wp-content/uploads/2016/10/map-home.jpg)
 ](https://www.google.com/maps/d/viewer?mid=1PMYssio8sPeSjTEMVtRaP-Ij_x8)
 
-**How often is the training class offered?** The training class is offered twice per year at each [Community Partner](http://www.prosperusdetroit.org/community-partners/), in the spring and the fall.
+**How often is the training class offered?** The training class is offered twice per year at each [Community Partner](http://localhost:1313/community-partners/), in the spring and the fall.
 
 **How do I get into the class?** The first step to getting into the class is to submit an [ETP Application](https://www.tfaforms.com/4802791). The applications for the class are accepted year-round.
 
@@ -76,9 +76,9 @@ Applicants will be assigned to sites based on geography. We only accept applican
 
 **Is there a cost for the training? **Each participant pays a fee of $75.
 
-**Where can I take the class?** The classes are offered in all of our target economic development areas at our [Community Partner](http://www.prosperusdetroit.org/community-partners/) locations: Cody-Rouge / Warrendale, Southwest Detroit, Lower East Side, Central Woodward-North End, and Grandmont Rosedale. 
+**Where can I take the class?** The classes are offered in all of our target economic development areas at our [Community Partner](http://localhost:1313/community-partners/) locations: Cody-Rouge / Warrendale, Southwest Detroit, Lower East Side, Central Woodward-North End, and Grandmont Rosedale. 
 
-**More information is available on our [FAQ Page](http://www.prosperusdetroit.org/prosperus-programs-faq/)**
+**More information is available on our [FAQ Page](http://localhost:1313/prosperus-programs-faq/)**
 
 
 ## Apply to ProsperUS Detroit
@@ -196,7 +196,7 @@ Thank you for your interest in ProsperUS, we look forward to reviewing your appl
 <blockquote>_  
 _
 > 
-> _Please note that you do not need to take this class to apply for our [business services](http://www.prosperusdetroit.org/business-services/) or [loans](http://www.prosperusdetroit.org/micro-lending/). However, to qualify for these programs you will need:_
+> _Please note that you do not need to take this class to apply for our [business services](http://localhost:1313/business-services/) or [loans](http://localhost:1313/micro-lending/). However, to qualify for these programs you will need:_
 > 
 > </blockquote>      * _A for-profit business located in the Detroit, Hamtramck, or Highland Park_      * _Registered with the state of Michigan ([LARA](https://www.michigan.gov/lara/0,4601,7-154-89334_61343_35413---,00.html)) and a federal [EIN number](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online)_      * _An active system of bookkeeping_      * _Profit-Loss statements, or a detailed business plan_
 
@@ -206,7 +206,7 @@ _
 > 
 > _
 > 
-> _If you have these documents and would like to use one of our other services, please [contact us](http://www.prosperusdetroit.org/contact-us/). _
+> _If you have these documents and would like to use one of our other services, please [contact us](http://localhost:1313/contact-us/). _
 > 
 > </blockquote>
 
@@ -1597,11 +1597,11 @@ Save my progress and resume later
 
 
 
-To learn more, please contact [ProsperUS Detroit](http://www.prosperusdetroit.org/contact-us/).
+To learn more, please contact [ProsperUS Detroit](http://localhost:1313/contact-us/).
 
-**Para una descripción general de ProsperUS Detroit en español, [visite la página](http://www.prosperusdetroit.org/informacion-en-espanol/).**
+**Para una descripción general de ProsperUS Detroit en español, [visite la página](http://localhost:1313/informacion-en-espanol/).**
 
-Para aplicar en español favor [bajar la aplicación](http://www.prosperusdetroit.org/wp-content/uploads/2016/10/PUD.ETPApplicationSpanish.Jan2017.Fillable.pdf), imprime la solicitud y envié a 2835 Bagley, Suite 800, Detroit, MI 48216. También es aceptable entregar la aplicación en persona, nuestra oficina está ubicada en el segundo piso en el mismo edificio de la Secretaria del Estado.
+Para aplicar en español favor [bajar la aplicación](http://localhost:1313/wp-content/uploads/2016/10/PUD.ETPApplicationSpanish.Jan2017.Fillable.pdf), imprime la solicitud y envié a 2835 Bagley, Suite 800, Detroit, MI 48216. También es aceptable entregar la aplicación en persona, nuestra oficina está ubicada en el segundo piso en el mismo edificio de la Secretaria del Estado.
 
 
 <iframe width="853" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/GEtZmQ_c8kw?rel=0&showinfo=0" frameborder="0" height="480"></iframe>

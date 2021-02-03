@@ -21,10 +21,10 @@ url: /resources/worksheets/
 
 
 
- 	  * [Personal Monthly Budget](http://www.prosperusdetroit.org/wp-content/uploads/2020/10/personalmonthlybudget.pdf) Before starting your business it's important that you have a personal monthly budget to understand your finances, practice money management, and save for your business. A budget is a way for you to track your money and make estimates about future spending, and it is done by adding the money you earn and subtracting the money you spend. Use this template to begin your personal budget.
+ 	  * [Personal Monthly Budget](http://localhost:1313/wp-content/uploads/2020/10/personalmonthlybudget.pdf) Before starting your business it's important that you have a personal monthly budget to understand your finances, practice money management, and save for your business. A budget is a way for you to track your money and make estimates about future spending, and it is done by adding the money you earn and subtracting the money you spend. Use this template to begin your personal budget.
 
 
 
- 	  * [Business Accounting Resources](http://www.prosperusdetroit.org/wp-content/uploads/2020/10/BusinessAccountingResources-2.pdf) This document compiles a variety of free accounting software, bookkeeping spreadsheets, and financial forecasting sites that may meet your needs. Accounting software is automated cloud or desktop technology that allows business owners and financial professionals to manage a small business’s books through their computer or phone.
+ 	  * [Business Accounting Resources](http://localhost:1313/wp-content/uploads/2020/10/BusinessAccountingResources-2.pdf) This document compiles a variety of free accounting software, bookkeeping spreadsheets, and financial forecasting sites that may meet your needs. Accounting software is automated cloud or desktop technology that allows business owners and financial professionals to manage a small business’s books through their computer or phone.
 
 

@@ -31,7 +31,7 @@ tags:
 - Warrendale
 ---
 
-ProsperUS Detroit will be in your neighborhood soon! Two ProsperUS Detroit, [staff members](http://www.prosperusdetroit.org/prosperus-staff/), Chris Butterfield, Small Business Advisor, and Amanda Brewington, Loan Officer, will be holding open office hours in our five geographies. The purpose of these office hours is to get us into the areas we serve and answer questions, start conversations and make access to our services even easier.
+ProsperUS Detroit will be in your neighborhood soon! Two ProsperUS Detroit, [staff members](http://localhost:1313/prosperus-staff/), Chris Butterfield, Small Business Advisor, and Amanda Brewington, Loan Officer, will be holding open office hours in our five geographies. The purpose of these office hours is to get us into the areas we serve and answer questions, start conversations and make access to our services even easier.
 
 This is another chance to get on the spot answers to any of your business questions. Thinking of applying for a loan? Looking to use business services? Bring any and all questions to an office hours session near you, or any session that fits your schedule! Come say hi!
 
@@ -113,5 +113,5 @@ Southwest Detroit: [Southwest Solutions' Adult Learning Lab](https://www.google.
 
 Email [Amanda Brewington](mailto:abrewington@swsol.org) with any questions, concerns, or feedback.
 
-![ProsperUS - Neighborhood Office Hours - Detroit](http://www.prosperusdetroit.org/wp-content/uploads/2017/08/office-hours-snip.png)
+![ProsperUS - Neighborhood Office Hours - Detroit](http://localhost:1313/wp-content/uploads/2017/08/office-hours-snip.png)
 

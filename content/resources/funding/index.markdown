@@ -26,7 +26,7 @@ This page offers entrepreneurs resources to find lenders, crowdfunding sources, 
 
 
 
-## [ProsperUS Micro-Lending Program](http://www.prosperusdetroit.org/micro-lending/)
+## [ProsperUS Micro-Lending Program](http://localhost:1313/micro-lending/)
 
 
 The ProsperUS Detroit Lending Program provides access to capital for start-up and existing small businesses that otherwise might not have access with traditional sources. Graduates of ProsperUS Detroit’s entrepreneur training program, who intend to locate their business in one of our five target neighborhoods, are eligible to apply for small business loans. ProsperUS Detroit provides financing up to $15,000 for start-up businesses and up to $25,000 for existing businesses with a 7% interest rate. 

@@ -62,5 +62,5 @@ Since there is only room for 12 participants, we must select each candidate with
 ### [APPLY: DEADLINE JUNE 29, 2018](https://docs.google.com/forms/d/e/1FAIpQLSciWApoPUUKHAiEwsvvKlEiwgyJhElRfSmf6zLoFz6JBfZAWA/viewform)
 
 
-[![Apply Now to Jump Start Your Retail Business Through Pop-Ups - ProsperUS Detroit](http://www.prosperusdetroit.org/wp-content/uploads/2018/06/Apply-Now-Button.png)
+[![Apply Now to Jump Start Your Retail Business Through Pop-Ups - ProsperUS Detroit](http://localhost:1313/wp-content/uploads/2018/06/Apply-Now-Button.png)
 ](https://docs.google.com/forms/d/e/1FAIpQLSciWApoPUUKHAiEwsvvKlEiwgyJhElRfSmf6zLoFz6JBfZAWA/viewform)

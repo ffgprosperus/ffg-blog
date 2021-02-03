@@ -9,7 +9,7 @@ url: /business-service-providers/
 
 Our Business Services program offers proven and professional services to neighborhood small businesses. These services build capacity for entrepreneurs and are high-quality, low-cost opportunities for growth.
 
-The Business Services Program allows entrepreneurs to work in partnership with an awarded service provider and ProsperUS by reducing time and cost of key services. Those services are approved in an amount of hours determined by the [Small Business Advisor](http://www.prosperusdetroit.org/prosperus-staff/), Business Services Committee, and the selected Service Provider. Our team works with a variety of service providers with a range of skills, expertise, and areas of focus.
+The Business Services Program allows entrepreneurs to work in partnership with an awarded service provider and ProsperUS by reducing time and cost of key services. Those services are approved in an amount of hours determined by the [Small Business Advisor](http://localhost:1313/prosperus-staff/), Business Services Committee, and the selected Service Provider. Our team works with a variety of service providers with a range of skills, expertise, and areas of focus.
 
 
 ## ProsperUS Providers
@@ -33,7 +33,7 @@ The Business Services Program allows entrepreneurs to work in partnership with a
 [Detroit Spaces](http://detroitspaces.com/) | _Web / Graphic Design / Photography_
 [Three Lyons Creative](http://www.threelyonscreative.com/) | _Web / Graphic Design / Photography_
 
-*[_Denotes a graduate of the ProsperUS Entrepreneur Training Program_](http://www.prosperusdetroit.org/entrepreneur-training/)
+*[_Denotes a graduate of the ProsperUS Entrepreneur Training Program_](http://localhost:1313/entrepreneur-training/)
 
 
 ## Work With US
@@ -41,6 +41,6 @@ The Business Services Program allows entrepreneurs to work in partnership with a
 
 Our Business Services Program is eager to work with professional service providers that seek ways to connect with Detroit’s neighborhood businesses and promote place-based economic development. If your business is interested in working with ambitious neighborhood entrepreneurs and small business owners, we welcome your enthusiasm to help grow our program and offer essential resources to the community.
 
-To learn more, and apply, please contact [ProsperUS Detroit](http://www.prosperusdetroit.org/contact-us/).
+To learn more, and apply, please contact [ProsperUS Detroit](http://localhost:1313/contact-us/).
 
-**Para una descripción general de ProsperUS Detroit en español, [visite la página](http://www.prosperusdetroit.org/informacion-en-espanol/).**
+**Para una descripción general de ProsperUS Detroit en español, [visite la página](http://localhost:1313/informacion-en-espanol/).**

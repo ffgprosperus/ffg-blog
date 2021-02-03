@@ -32,7 +32,7 @@ Born and raised in metro-Detroit, Lea Addington began her business, LIT Vegan Ki
 Addington explained that her business developed in several phases. She started with meal prep for family and friends and found other clients through word of mouth. Then Addington began doing pop-ups to cater to people who wanted to try her meals but could not afford the meal prep. Next, she transitioned into catering and offering classes, where she sees the emphasis of her business expanding. Addington identified her main challenge in starting a business as a lack of information. She did not know what she needed to get started, what the process required, or who she could ask for help. 
 
 
-<blockquote>![](http://www.prosperusdetroit.org/wp-content/uploads/2020/11/litveganfood.jpg)
+<blockquote>![](http://localhost:1313/wp-content/uploads/2020/11/litveganfood.jpg)
 “I started so on the fly I just had a lack of information—not knowing where to go, whom I could reach out, whom I could partner with, who was doing plant-based food in Detroit. But at the same time that was on me, I had to step out. I had to step out of my little bubble doing what I wanted to do; I had to go out and meet people.”</blockquote>
 
 
@@ -65,5 +65,5 @@ The main challenge for me is making myself uncomfortable because with discomfort
  	  * ******Instagram: @litvegankitchen **
  	  * ******Facebook: LIT Vegan Kitchen**
 
-![](http://www.prosperusdetroit.org/wp-content/uploads/2020/11/lit.png)
+![](http://localhost:1313/wp-content/uploads/2020/11/lit.png)
 </blockquote>

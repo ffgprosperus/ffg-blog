@@ -7,11 +7,11 @@ type: page
 url: /programs-services/
 ---
 
-![Programs and Services - ProsperUS Detroit](http://www.prosperusdetroit.org/wp-content/uploads/2016/10/Programs-Services.png)
+![Programs and Services - ProsperUS Detroit](http://localhost:1313/wp-content/uploads/2016/10/Programs-Services.png)
 
 ProsperUS Detroit is a place-based economic development strategy designed to empower low and moderate income, immigrant and minority individuals and neighborhoods. We offer a variety of services in Detroit's neighborhoods to empower small business owners to become community leaders and advocates.
 
-[**ENTREPRENEUR TRAINING**](http://www.prosperusdetroit.org/entrepreneur-training/)
+[**ENTREPRENEUR TRAINING**](http://localhost:1313/entrepreneur-training/)
 
 
 
@@ -20,14 +20,14 @@ ProsperUS Detroit is a place-based economic development strategy designed to emp
  	  * 10 one-on-one sessions with a culturally competent, professional trainer
  	  * Curriculum written and taught in Spanish when needed
 
-[**BUSINESS SERVICES**](http://www.prosperusdetroit.org/business-services/)
+[**BUSINESS SERVICES**](http://localhost:1313/business-services/)
 
 
 
  	  * Evaluation and counseling from a business adviser for support service options for graduates and other businesses in target areas
  	  * Flexible price structures to help entrepreneurs alleviate barriers to the next step in their business
 
-[**MICRO-LENDING**](http://www.prosperusdetroit.org/micro-lending/)
+[**MICRO-LENDING**](http://localhost:1313/micro-lending/)
 
 
 
@@ -40,6 +40,6 @@ ProsperUS Detroit is a place-based economic development strategy designed to emp
 ## 
 
 
-**To learn more,  please contact [ProsperUS Detroit](http://www.prosperusdetroit.org/contact-us/). To apply for assistance, please submit the [Business Service / Microloan Intake form](https://www.tfaforms.com/4814770). **
+**To learn more,  please contact [ProsperUS Detroit](http://localhost:1313/contact-us/). To apply for assistance, please submit the [Business Service / Microloan Intake form](https://www.tfaforms.com/4814770). **
 
-**Para una descripción general de ProsperUS Detroit en español, [visite la página](http://www.prosperusdetroit.org/informacion-en-espanol/).**
+**Para una descripción general de ProsperUS Detroit en español, [visite la página](http://localhost:1313/informacion-en-espanol/).**

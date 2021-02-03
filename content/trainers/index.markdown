@@ -7,7 +7,7 @@ type: page
 url: /trainers/
 ---
 
-![ProsperUS Trainers - ProsperUS Detroit](http://www.prosperusdetroit.org/wp-content/uploads/2016/10/Trainers-1.png)
+![ProsperUS Trainers - ProsperUS Detroit](http://localhost:1313/wp-content/uploads/2016/10/Trainers-1.png)
 
 
 With diverse backgrounds and business experience, our Trainers are culturally competent and committed to helping entrepreneurs succeed. Each Trainer excels at helping entrepreneurs get from a dream or an idea to developing an exhaustive understanding of what it takes to be an entrepreneur. Through twelve in-class sessions and ten one-on-one consultations, our Trainers are committed to helping participants progress toward the creation of a business plan. With ongoing relationships and accountability, our Trainers are mentors and counselors to students and program graduates.
@@ -45,7 +45,7 @@ Paul Jones has a unique combination of institutional finance, small business adv
 **Remembering MONICA ECHEVERRI CASAREZ**
 Our beloved trainer Monica Echeverri Casarez passed away Easter Sunday due to complications caused by Covid-19. Monica taught our Southwest Detroit cohorts and her entrepreneurs loved her for many reasons. We remember Monica as a bright energetic personality with a sharp mind. She was a woman who valued justice and took action to help others. She had a way to entertain and inspire and we loved hearing her stories and insights.  A true community leader, Monica worked tirelessly to help those in need and we wish to honor her memory by ensuring that her work continues. We are mourning her loss, uplifting her beautiful spirit, and praying for her family and loved ones.
 
-For more on Monica see our [remembrance post.](http://www.prosperusdetroit.org/2020/04/24/monica/)
+For more on Monica see our [remembrance post.](http://localhost:1313/2020/04/24/monica/)
 
 
 ## 
@@ -58,6 +58,6 @@ For more on Monica see our [remembrance post.](http://www.prosperusdetroit.org/2
 
 Our Entrepreneur Training Program is eager to work with trainers, mentors, and consultants that seek ways to connect with Detroit’s neighborhood businesses and promote place-based economic development. If you are interested in teaching low and moderate income, immigrant and minority entrepreneurs and small business owners how to build a successful business plan, we welcome your enthusiasm to help grow our program and offer essential resources to the community.
 
-To learn more, please contact [ProsperUS Detroit](http://www.prosperusdetroit.org/contact-us/). To apply, please fulfill the **[ProsperUS Detroit Entrepreneur Trainer Application](http://www.prosperusdetroit.org/wp-content/uploads/2018/10/ProsperUS_Entrepreneur_Trainer_Application_October_2018.pdf)**.
+To learn more, please contact [ProsperUS Detroit](http://localhost:1313/contact-us/). To apply, please fulfill the **[ProsperUS Detroit Entrepreneur Trainer Application](http://localhost:1313/wp-content/uploads/2018/10/ProsperUS_Entrepreneur_Trainer_Application_October_2018.pdf)**.
 
-**Para una descripción general de ProsperUS Detroit en español, [visite la página](http://www.prosperusdetroit.org/informacion-en-espanol/).**
+**Para una descripción general de ProsperUS Detroit en español, [visite la página](http://localhost:1313/informacion-en-espanol/).**

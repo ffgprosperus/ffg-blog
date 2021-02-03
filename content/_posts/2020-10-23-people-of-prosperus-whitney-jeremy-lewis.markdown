@@ -23,8 +23,8 @@ tags:
 
 Whitney and Jeremy Lewis were both born and raised in Detroit, MI, and returned in 2016 after leaving temporarily for college. Two foodies with a drive for entrepreneurship, the couple launched Boiling Point Detroit in 2019, inspired by the unique dining experience of a seafood boil. 
 
-After cooking for family and friends initially, the couple branched out to host events. When their service was well received by the public, they knew Boiling Point would take off. The Lewis’s gained additional support from a previous fellowship, where they organized a business model and developed a logo. [![](http://www.prosperusdetroit.org/wp-content/uploads/2020/10/boil.jpg)
-](http://www.prosperusdetroit.org/wp-content/uploads/2020/10/boil.jpg)
+After cooking for family and friends initially, the couple branched out to host events. When their service was well received by the public, they knew Boiling Point would take off. The Lewis’s gained additional support from a previous fellowship, where they organized a business model and developed a logo. [![](http://localhost:1313/wp-content/uploads/2020/10/boil.jpg)
+](http://localhost:1313/wp-content/uploads/2020/10/boil.jpg)
 
 
 <blockquote>“When we discovered this seafood experience, we knew it was something Detroit needed. Even though we didn’t have experience as food entrepreneurs, we knew since our family and friends loved it, it was something this community would love.”</blockquote>
@@ -46,8 +46,8 @@ After the pandemic began, Mr. and Mrs. Lewis had to adjust some of their initial
 
 The Lewis’s were very precise about their goals for the future, stating that they will have a brick and mortar location, and a catering company with a household name. 
 
-[![](http://www.prosperusdetroit.org/wp-content/uploads/2020/10/BPD_1-Color_Positive_Optimized.png)
-](http://www.prosperusdetroit.org/wp-content/uploads/2020/10/BPD_1-Color_Positive_Optimized.png)
+[![](http://localhost:1313/wp-content/uploads/2020/10/BPD_1-Color_Positive_Optimized.png)
+](http://localhost:1313/wp-content/uploads/2020/10/BPD_1-Color_Positive_Optimized.png)
 
 Website: www.boilingpointdetroit.com 
 

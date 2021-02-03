@@ -128,8 +128,8 @@ There are three steps to applying:
  	  * Review the eligibility and requirements below.
  	  * Complete the application.
 
- 	    * [Flagstar BIPOC Grant Application (English)](http://www.prosperusdetroit.org/wp-content/uploads/2020/11/sbg_application_fillable_final_11.5.20-1.pdf)
- 	    * [Flagstar BIPOC Grant Application (Spanish)](http://www.prosperusdetroit.org/wp-content/uploads/2020/11/SBG-Application-Fillable-Draft5.1-SPANISH-Copy-1.pdf)
+ 	    * [Flagstar BIPOC Grant Application (English)](http://localhost:1313/wp-content/uploads/2020/11/sbg_application_fillable_final_11.5.20-1.pdf)
+ 	    * [Flagstar BIPOC Grant Application (Spanish)](http://localhost:1313/wp-content/uploads/2020/11/SBG-Application-Fillable-Draft5.1-SPANISH-Copy-1.pdf)
 
 
  	  * Submit required documentation to swarren@prosperusdetroit.org.

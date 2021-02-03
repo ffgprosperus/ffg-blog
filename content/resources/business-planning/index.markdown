@@ -10,7 +10,7 @@ url: /resources/business-planning/
 ## Business Planning
 
 
-**Whether you are starting or growing your business, the ![](http://www.prosperusdetroit.org/wp-content/uploads/2017/02/business-891339_960_720-300x225.png)
+**Whether you are starting or growing your business, the ![](http://localhost:1313/wp-content/uploads/2017/02/business-891339_960_720-300x225.png)
 first step should be to develop a good business plan, which will be a guideline to keep your thoughts organized. Any business plan is unique and it should be flexible, according to your business industry. There are many free templates, online tools and websites that could help you to brainstorm about how to plan for your business. Here we want to share with you some Documents and Resources that we think might help you to develop your unique Business Plan. **
 
 
@@ -28,9 +28,9 @@ You will find many, here are some of the ones we recommend:
 
 
 
- 	  * **[Business Plan Template (SCORE)](http://www.prosperusdetroit.org/wp-content/uploads/2017/02/SCORE-Deluxe-Startup-Business-Plan-Template_0.docx) **This is a comprehensive and detailed template that will guide you step by step, explaining concepts in an easy way, and includes simple worksheets for every part of your business plan.
+ 	  * **[Business Plan Template (SCORE)](http://localhost:1313/wp-content/uploads/2017/02/SCORE-Deluxe-Startup-Business-Plan-Template_0.docx) **This is a comprehensive and detailed template that will guide you step by step, explaining concepts in an easy way, and includes simple worksheets for every part of your business plan.
  	  * **[Business Plan Template (BPLANS)](http://www.bplans.com/downloads/business-plan-template/) **This template has been used by universities to teach entrepreneurs how to start businesses. It includes samples of charts and statements to show your financials.
- 	  * **[Business Model Canvas Poster](http://www.prosperusdetroit.org/wp-content/uploads/2017/02/business_model_canvas_poster.pdf)** Canvas is a one page template that helps you to have a visual chart of how you plan looks like, including key partners, key activities, value proposition, customers, and finances.
+ 	  * **[Business Model Canvas Poster](http://localhost:1313/wp-content/uploads/2017/02/business_model_canvas_poster.pdf)** Canvas is a one page template that helps you to have a visual chart of how you plan looks like, including key partners, key activities, value proposition, customers, and finances.
 
 
 
@@ -41,8 +41,8 @@ You will find many, here are some of the ones we recommend:
 
 
 <blockquote>[Sample Business Plan - 1
-](http://www.prosperusdetroit.org/wp-content/uploads/2017/02/SamplePlan1.pdf)[Sample Business Plan - 2
-](http://www.prosperusdetroit.org/wp-content/uploads/2017/02/SamplePlan2.pdf)[Sample Business Plan - 3](http://www.prosperusdetroit.org/wp-content/uploads/2017/02/SamplePlan3.pdf)</blockquote>
+](http://localhost:1313/wp-content/uploads/2017/02/SamplePlan1.pdf)[Sample Business Plan - 2
+](http://localhost:1313/wp-content/uploads/2017/02/SamplePlan2.pdf)[Sample Business Plan - 3](http://localhost:1313/wp-content/uploads/2017/02/SamplePlan3.pdf)</blockquote>
 
 
 
@@ -54,7 +54,7 @@ You will find many, here are some of the ones we recommend:
 
 
 
-##### ![](http://www.prosperusdetroit.org/wp-content/uploads/2017/02/Online-Tools-300x227-1-300x227.jpg)
+##### ![](http://localhost:1313/wp-content/uploads/2017/02/Online-Tools-300x227-1-300x227.jpg)
 **Online Tools**
 
 
@@ -77,7 +77,7 @@ If you want to get paid options for online tools, you can try [Enloop ](https://
 
 
 
-##### ![](http://www.prosperusdetroit.org/wp-content/uploads/2018/04/getty_474598001_9706479704500195_52805-300x139.jpg)
+##### ![](http://localhost:1313/wp-content/uploads/2018/04/getty_474598001_9706479704500195_52805-300x139.jpg)
 **Web Sites**
 
 
@@ -103,13 +103,13 @@ If you are new to starting a business and need to decide whether to invest time 
 ##### **Remember!**
 
 
-![](http://www.prosperusdetroit.org/wp-content/uploads/2018/04/images23-300x117.jpg)
+![](http://localhost:1313/wp-content/uploads/2018/04/images23-300x117.jpg)
 The ProsperUS Detroit Entrepreneur Training program offer a **comprehensive, 20-week entrepreneur training program** that helps participants **realize their potential and develop a business plan.** Through this program, we look to our entrepreneurs to be examples, leaders, and potentially employers, in these communities as business owners.
 
-ProsperUS Detroit accepts applications to the Entrepreneur Training program on a continual basis. As new classes approach, we will reach out to applicants to gather more information and schedule interviews. If you’re interested in our program, please **[apply online now](https://www.vistashare.com/ot2/ssview/intake/96c5f952018711e6afc824b6fdf55558/)** or **[visit one of our Community Partners](http://www.prosperusdetroit.org/community-partners/)**.
+ProsperUS Detroit accepts applications to the Entrepreneur Training program on a continual basis. As new classes approach, we will reach out to applicants to gather more information and schedule interviews. If you’re interested in our program, please **[apply online now](https://www.vistashare.com/ot2/ssview/intake/96c5f952018711e6afc824b6fdf55558/)** or **[visit one of our Community Partners](http://localhost:1313/community-partners/)**.
 
-To learn more, please contact **[ProsperUS Detroit](http://www.prosperusdetroit.org/contact-us/)**.
+To learn more, please contact **[ProsperUS Detroit](http://localhost:1313/contact-us/)**.
 
-**Para una descripción general de ProsperUS Detroit en español, [visite la página](http://www.prosperusdetroit.org/informacion-en-espanol/).**
+**Para una descripción general de ProsperUS Detroit en español, [visite la página](http://localhost:1313/informacion-en-espanol/).**
 
-Para aplicar en español favor de **[bajar la aplicación](http://www.prosperusdetroit.org/wp-content/uploads/2016/10/PUD.ETPApplicationSpanish.Jan2017.Fillable.pdf)****,** imprime la solicitud y envíe a 2835 Bagley, Suite 800, Detroit, MI 48216. También es aceptable entregar la aplicación en persona, nuestra oficina está ubicada en el segundo piso en el mismo edificio de la Secretaria del Estado.
+Para aplicar en español favor de **[bajar la aplicación](http://localhost:1313/wp-content/uploads/2016/10/PUD.ETPApplicationSpanish.Jan2017.Fillable.pdf)****,** imprime la solicitud y envíe a 2835 Bagley, Suite 800, Detroit, MI 48216. También es aceptable entregar la aplicación en persona, nuestra oficina está ubicada en el segundo piso en el mismo edificio de la Secretaria del Estado.

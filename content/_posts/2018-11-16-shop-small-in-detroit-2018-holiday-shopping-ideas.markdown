@@ -44,7 +44,7 @@ Don't forget to share the excitement with **#ShopSmallDetroit**!
 
 
 
-## [![](http://www.prosperusdetroit.org/wp-content/uploads/2018/11/shopsmallgrdc-300x300.jpg)
+## [![](http://localhost:1313/wp-content/uploads/2018/11/shopsmallgrdc-300x300.jpg)
 ](https://www.facebook.com/events/904388853094080/)
 [MORE INFO](https://www.facebook.com/events/904388853094080/)
 
@@ -61,7 +61,7 @@ Don't forget to share the excitement with **#ShopSmallDetroit**!
 ### Retail Pop-Up at Mack Market | 11/24 @ 11 AM - 4 PM
 
 
-[![](http://www.prosperusdetroit.org/wp-content/uploads/2018/11/ecnshopsmall-215x300.png)
+[![](http://localhost:1313/wp-content/uploads/2018/11/ecnshopsmall-215x300.png)
 ](https://www.facebook.com/events/1011214952422289/)
 
 
@@ -80,7 +80,7 @@ Don't forget to share the excitement with **#ShopSmallDetroit**!
 ### Small Business Saturday at Cass Collective | 11/24 @ 11 AM - 7 PM
 
 
-[![](http://www.prosperusdetroit.org/wp-content/uploads/2018/11/shopsmallcass-300x250.jpg)
+[![](http://localhost:1313/wp-content/uploads/2018/11/shopsmallcass-300x250.jpg)
 ](https://www.facebook.com/events/1155886637903311/)
 
 
@@ -99,7 +99,7 @@ Don't forget to share the excitement with **#ShopSmallDetroit**!
 ### Shop Small Saturday in Detroit | Southwest / Corktown
 
 
-[![](http://www.prosperusdetroit.org/wp-content/uploads/2018/11/shopsmallsw-300x202.jpg)
+[![](http://localhost:1313/wp-content/uploads/2018/11/shopsmallsw-300x202.jpg)
 ](https://www.facebook.com/events/192211621691171/)
 
 
@@ -118,7 +118,7 @@ Don't forget to share the excitement with **#ShopSmallDetroit**!
 ### Noel Night at Cass Collective | 12/1 @ 11 AM - 10 PM
 
 
-[![](http://www.prosperusdetroit.org/wp-content/uploads/2018/11/noelnightatcass-300x251.jpg)
+[![](http://localhost:1313/wp-content/uploads/2018/11/noelnightatcass-300x251.jpg)
 ](https://www.facebook.com/events/1099284633587407/)
 
 
@@ -137,7 +137,7 @@ Don't forget to share the excitement with **#ShopSmallDetroit**!
 ### Southwest Holiday Fest | 12/8 @ 2-6PM | Various Locations + Partners
 
 
-[![](http://www.prosperusdetroit.org/wp-content/uploads/2018/11/45208120_478399702646920_2485460835044950016_o-199x300.jpg)
+[![](http://localhost:1313/wp-content/uploads/2018/11/45208120_478399702646920_2485460835044950016_o-199x300.jpg)
 ](https://www.facebook.com/events/417958285697563/)
 
 

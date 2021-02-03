@@ -10,7 +10,7 @@ url: /prosperus-staff/
 ## Chanell Scott Contreras, Executive Director of ProsperUS
 
 
-![Chanell Scott Contreras - Director of Entrepreneurial Initiatives - ProsperUS Detroit](http://www.prosperusdetroit.org/wp-content/uploads/2016/10/Chanell_b-w2-e1592501785281-300x300.jpg)
+![Chanell Scott Contreras - Director of Entrepreneurial Initiatives - ProsperUS Detroit](http://localhost:1313/wp-content/uploads/2016/10/Chanell_b-w2-e1592501785281-300x300.jpg)
 
 
 Driven by her empathetic nature and passion for entrepreneurs of color, Chanell is deeply committed to increasing economic equity throughout Detroit. As the Executive Director of ProsperUS, she collaborates with a rich network of partners to strategically grow and develop training, business services, and microlending for underserved entrepreneurs in Detroit’s neighborhoods.
@@ -33,7 +33,7 @@ Chanell’s commitment to equity and inclusion was strengthened during her under
 ## Matthew Bihun, Senior Loan Officer
 
 
-![matthewbihun2-bw](http://www.prosperusdetroit.org/wp-content/uploads/2016/10/MatthewBihun2-bw-e1592501835260-300x300.jpg)
+![matthewbihun2-bw](http://localhost:1313/wp-content/uploads/2016/10/MatthewBihun2-bw-e1592501835260-300x300.jpg)
 A barstool intellectual with a master’s degree in small talk, Matthew Bihun joined the ProsperUS Detroit Micro-Loan Program in the winter of 2013. Matthew’s first task was to create the model, infrastructure, and processes for a loan program, specifically designed to serve the capital needs of low-income, minority, and immigrant entrepreneurs. Since then, ProsperUS Detroit has loaned over $500,000 in micro-loans to 28 entrepreneurs. Matthew believes that developing honest and high-touch relationships with borrowers is critical to mitigating risk, creating personal and family wealth, and promoting profitable businesses.
 
 Outside of ProsperUS, Matthew is a co-owner of [UFO Factory](http://ufofactory.com/) in Corktown, an art and performance space that also serves as a bar and restaurant. Matthew enjoys purchasing and rehabbing turn of the century houses in Detroit’s historic neighborhoods, taking Chris Butterfield’s predictable curveball deep (playing baseball), and traveling. He is on a quest to visit all 59 National Parks in the next five years. His best pal is Miles, his dog.
@@ -59,7 +59,7 @@ Outside of ProsperUS, Matthew is a co-owner of [UFO Factory](http://ufofactory.c
 
 
 
-![](http://www.prosperusdetroit.org/wp-content/uploads/2020/06/CKINGbw1-e1592503302503-300x300.jpg)
+![](http://localhost:1313/wp-content/uploads/2020/06/CKINGbw1-e1592503302503-300x300.jpg)
 A west-side Detroit native and Michigan State University alum, Crystal has a passion for urban geography and working to address economic disparities minority Detroiters face.
 
 
@@ -99,7 +99,7 @@ Crystal has prior experience in nonprofit work in DC, venture capital in NYC, an
 ## Emeric Dongmo, Portfolio Manager
 
 
-![](http://www.prosperusdetroit.org/wp-content/uploads/2020/02/thumbnail_20200214_101637-e1592502164848.jpg)
+![](http://localhost:1313/wp-content/uploads/2020/02/thumbnail_20200214_101637-e1592502164848.jpg)
 Emeric Magloire Dongmo Tsakem is a finance professional with over 10 years of experience in the industry. Emeric was born and raised in Africa, where he obtained a Master degree in Banking and Finance from the International Relations Institute of Cameroon. He has always been passionate about helping vulnerable people improve their economic and social well-being. His served as portfolio manager, National Loan officer and District Manager with Afriland First bank, Unity Cooperative Society LLC, and CEFAC Yaoundé.  In 2014, he moved to the United States of America, and he intends to fully contribute to his new community. With ProsperUS Detroit, Emeric hopes to apply his background and skills in a deep and meaningful way. There is already a great connection between his personal aspirations to serve the less privileged and the mission of ProsperUS and he is excited to inspire and support the Detroit community via his work at ProsperUS.
 
 
@@ -118,7 +118,7 @@ Emeric Magloire Dongmo Tsakem is a finance professional with over 10 years of ex
 ## Andrew Kaplowitz, Program Manager
 
 
-![](http://www.prosperusdetroit.org/wp-content/uploads/2019/08/AK-Headshot-e1592502331782-300x300.jpg)
+![](http://localhost:1313/wp-content/uploads/2019/08/AK-Headshot-e1592502331782-300x300.jpg)
 Like many Michiganders, Andrew [He/Him] appreciates [A Primer](https://www.newyorker.com/magazine/2008/05/19/a-primer) by Bob Hicok, going for a dip in the lake, and a fresh blanket of snow.
 
 Andrew works as the Program Manager at ProsperUS and helps run the Entrepreneur Training Program. Some other highlights from Andrew’s entrepreneurial experience include helping grow [LOUD](http://loud.global/) in Chicago, volunteering in Nicaragua with Peace Corps’ Entrepreneurship Training program, and his ongoing freelance creative work.
@@ -139,8 +139,8 @@ Although he is an avid traveler, Andrew loves Detroit and seeks every opportuni
 ## Shannon Warren, Program Coordinator
 
 
-[![](http://www.prosperusdetroit.org/wp-content/uploads/2020/10/IMG_8723.jpg)
-](http://www.prosperusdetroit.org/wp-content/uploads/2020/10/IMG_8723.jpg)Shannon joins the ProsperUS team with a background in customer service, sales, and office administration. While pursuing a degree in Business Administration, she decided that Hospitality Management would be a closer fit to who she is personally. Shannon believes life experiences have been her best teacher and further fueled her concerns for the community. As a member of [Detroit Action](https://detroitaction.org), she seeks to make a difference in the areas of domestic violence, affordable housing, liveable wages for the working class, criminal justice reform and programs for returning citizens. With a passion for music, reference to being a mermaid and the serenity of water, is there any wonder that her favorite summertime hangout is the Aretha Franklin Amphitheater (formerly known as Chene Park)? This mother of three is striving to create a legacy for her family that will incorporate her love of cooking, entertaining and event planning.
+[![](http://localhost:1313/wp-content/uploads/2020/10/IMG_8723.jpg)
+](http://localhost:1313/wp-content/uploads/2020/10/IMG_8723.jpg)Shannon joins the ProsperUS team with a background in customer service, sales, and office administration. While pursuing a degree in Business Administration, she decided that Hospitality Management would be a closer fit to who she is personally. Shannon believes life experiences have been her best teacher and further fueled her concerns for the community. As a member of [Detroit Action](https://detroitaction.org), she seeks to make a difference in the areas of domestic violence, affordable housing, liveable wages for the working class, criminal justice reform and programs for returning citizens. With a passion for music, reference to being a mermaid and the serenity of water, is there any wonder that her favorite summertime hangout is the Aretha Franklin Amphitheater (formerly known as Chene Park)? This mother of three is striving to create a legacy for her family that will incorporate her love of cooking, entertaining and event planning.
 
 
 
@@ -164,8 +164,8 @@ Although he is an avid traveler, Andrew loves Detroit and seeks every opportuni
 
 
 
-[![](http://www.prosperusdetroit.org/wp-content/uploads/2020/10/1-2.png)
-](http://www.prosperusdetroit.org/wp-content/uploads/2020/10/1-2.png)
+[![](http://localhost:1313/wp-content/uploads/2020/10/1-2.png)
+](http://localhost:1313/wp-content/uploads/2020/10/1-2.png)
 
 Suzanne Cleage, a graduate of Spelman College, has decades of experience in program design and implementation, creating training manuals and workshops, facilitating focus groups, needs assessments and feasibility studies. She has created programs in both non-profit and for-profit industries. She has provided program oversight and management for the day-to-day operations and services related to education, health and wellness, youth development, entrepreneurial development, neighborhood building and community organizing.
 
@@ -193,7 +193,7 @@ The mission and vision of Suzanne’s work has always been framed around solutio
 ## Mackenzie Hewitt, DCERP Intern
 
 
-![](http://www.prosperusdetroit.org/wp-content/uploads/2020/06/IMG_E6408-e1592502811329-300x300.jpg)
+![](http://localhost:1313/wp-content/uploads/2020/06/IMG_E6408-e1592502811329-300x300.jpg)
 After enrolling at the University of Michigan to pursue Art and Design, Mackenzie discovered her passion for social justice—finding she not only wanted her art to address social issues but also to work to change them. This shift led her to dual major in Sociology, with a Law, Justice, and Social Change sub-major. She was inspired to study abroad in Copenhagen, Denmark, to learn about human trafficking.
 
 In her time at U of M, Mackenzie has collaborated with Detroit high school students, creating a footwear brand that aimed to transition the students from consumers to creators. Mackenzie has led an art workshop with inmates at a county jail to support a traditionally outcasted population. She will be continuing to collaborate with this community in her senior year, along with leading the Women's Ice Hockey Team as a co-captain.
@@ -210,4 +210,4 @@ As an intern at ProsperUS, Mackenzie is eager to learn more about non-profit wor
 
 
 
-**Para una descripción general de ProsperUS Detroit en español, [visite la página](http://www.prosperusdetroit.org/informacion-en-espanol/).**
+**Para una descripción general de ProsperUS Detroit en español, [visite la página](http://localhost:1313/informacion-en-espanol/).**

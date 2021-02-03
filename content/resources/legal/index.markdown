@@ -11,4 +11,4 @@ url: /resources/legal/
 
 
 
-ProsperUS can help you find appropriate legal resources. Reach out to our [Business Service](http://www.prosperusdetroit.org/business-services/) team if you are in need of legal support.
+ProsperUS can help you find appropriate legal resources. Reach out to our [Business Service](http://localhost:1313/business-services/) team if you are in need of legal support.

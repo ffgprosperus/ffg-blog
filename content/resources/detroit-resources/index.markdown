@@ -15,7 +15,7 @@ url: /resources/detroit-resources/
 ##### [Detroit Economic Growth Corporation](http://www.degc.org/)
 
 
-[![](http://www.prosperusdetroit.org/wp-content/uploads/2017/02/degc-logo-162x300.png)
+[![](http://localhost:1313/wp-content/uploads/2017/02/degc-logo-162x300.png)
 ](http://www.degc.org/)DEGC has 40 years working on Detroit’s economic revitalization. They connect people, opportunities and resources, **supporting emerging and expanding businesses and bringing new investments to the city. **Through MotorCity Match and MotorCity Restore they support small businesses in Detroit. 
 
 
@@ -28,7 +28,7 @@ url: /resources/detroit-resources/
 ##### [Hatch Detroit](http://hatchdetroit.com/)
 
 
-HatchDetroit is a pitch competition for entrepreneurs, supportin[![](http://www.prosperusdetroit.org/wp-content/uploads/2017/02/HD_Logo_BW_Trim-300x232.png)
+HatchDetroit is a pitch competition for entrepreneurs, supportin[![](http://localhost:1313/wp-content/uploads/2017/02/HD_Logo_BW_Trim-300x232.png)
 ](http://hatchdetroit.com/)g **the opening of small retailers storefronts. **They provide grant funding and advice to the winner of the multi-round competition. Their focus is in the neighborhoods: The Avenue of Fashion, Southwest Detroit, The Villages, Corktown, Grandmont/Rosedale, and the North End.
 
 
@@ -41,7 +41,7 @@ HatchDetroit is a pitch competition for entrepreneurs, supportin[![](http://ww
 ##### [NEIdeas Detroit](http://neideasdetroit.org/)
 
 
-NEIdeas is a Program from the **[New Economy Initiative](https://neweconomyinitiative.org/)**, which [![](http://www.prosperusdetroit.org/wp-content/uploads/2017/02/nei-logo.png)
+NEIdeas is a Program from the **[New Economy Initiative](https://neweconomyinitiative.org/)**, which [![](http://localhost:1313/wp-content/uploads/2017/02/nei-logo.png)
 ](http://neideasdetroit.org/)awards small business applicants funding their **businesses to grow** in the form of two challenges: 1) **The $10K challenge,** for 20 businesses that gross less than $750,000 annually with ideas to grow, and 2)  **The $100K challenge,** for 2 businesses that gross more than $750,000 and less than $5 million annually with ideas to grow ‘big.’ 
 
 
@@ -55,7 +55,7 @@ NEIdeas supports impactful, courageous, achievable and clear ideas, that would
 ##### [TechTown Detroit](http://techtowndetroit.org/)
 
 
-TechTown is a small business incubator and accelerator for technology startups [![](http://www.prosperusdetroit.org/wp-content/uploads/2017/02/logo-TT.png)
+TechTown is a small business incubator and accelerator for technology startups [![](http://localhost:1313/wp-content/uploads/2017/02/logo-TT.png)
 ](http://techtowndetroit.org/)in Detroit, offering research and development services to assist companies grow their business.
 
 Some of their services are:

@@ -22,7 +22,7 @@ tags:
 ## By: Anna Gotskind
 
 
-![](http://www.prosperusdetroit.org/wp-content/uploads/2020/09/unik-300x264.jpg)
+![](http://localhost:1313/wp-content/uploads/2020/09/unik-300x264.jpg)
 Unik I Am strives to empower and uplift young women to embrace their journey and not let mistakes define who they are. Founder, Shayla Davis, accomplishes this through motivational speaking about her own experiences and providing support services to help women find housing, jobs, and more.
 
 
@@ -50,7 +50,7 @@ Davis created Unik I Am with the goal of “Empowering women from all walks of l
 <blockquote>“Now, I use my experiences to help other young ladies and women overcome any hurdles that they’re facing or feel as though those hurdles are confining them. Unik I Am helps young ladies to embrace their journeys, to know that they are unique, and so for me, I do different motivational speaking on my journey and I also provide support for single mothers.”</blockquote>
 
 
-Unik I Am has several different support services to help young women empower themselves. Having been homeless Davis knows how hard it can be to rebuild one’s life.![](http://www.prosperusdetroit.org/wp-content/uploads/2020/09/hoodie-300x300.png)
+Unik I Am has several different support services to help young women empower themselves. Having been homeless Davis knows how hard it can be to rebuild one’s life.![](http://localhost:1313/wp-content/uploads/2020/09/hoodie-300x300.png)
 
 
 
@@ -74,7 +74,7 @@ She continues to grow her business while also maintaining her full-time HR posit
 </blockquote>
 
 
-![](http://www.prosperusdetroit.org/wp-content/uploads/2020/09/uniklogo-e1600186775663-300x212.jpg)
+![](http://localhost:1313/wp-content/uploads/2020/09/uniklogo-e1600186775663-300x212.jpg)
 
 
 

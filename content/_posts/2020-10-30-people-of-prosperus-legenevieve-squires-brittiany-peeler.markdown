@@ -39,7 +39,7 @@ Peeler and Squires described their main setbacks and challenges as transportatio
 Squires and Peeler expressed that they were attracted to join the FoodLab and ProsperUS Tapestry Fellowship because all of the businesses were Black-owned, start-ups, and primarily women. 
 
 
-<blockquote>![](http://www.prosperusdetroit.org/wp-content/uploads/2020/10/relish.jpg)
+<blockquote>![](http://localhost:1313/wp-content/uploads/2020/10/relish.jpg)
 “It was intriguing to have a collection of other like-minded business people to share the weight of how it feels to be a first-time business owner.”</blockquote>
 
 
@@ -60,8 +60,8 @@ Peeler and Squires hope to secure land and have a set place where guests can pri
 <blockquote>“In about five years, I am really pushing for us to have our own land and our shipping container. I would love to have a hybrid cafe market similar to what Funk is doing. Having more markets like that is very important in our neighborhood.”</blockquote>
 
 
-[![](http://www.prosperusdetroit.org/wp-content/uploads/2020/10/logo.jpg)
-](http://www.prosperusdetroit.org/wp-content/uploads/2020/10/logo.jpg)
+[![](http://localhost:1313/wp-content/uploads/2020/10/logo.jpg)
+](http://localhost:1313/wp-content/uploads/2020/10/logo.jpg)
 
 
 

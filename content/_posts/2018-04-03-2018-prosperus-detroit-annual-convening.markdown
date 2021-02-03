@@ -85,8 +85,8 @@ Over the last five years, ProsperUS Detroit has trained nearly 1000 entrepreneur
 
 If you have any questions, please call or email ProsperUS Detroit Program Support Specialist, Devin Kuziel (313-297-0083 or [dkuziel@swsol.org](mailto:dkuziel@swsol.org)).
 
-[![Sponsor Quicken Loans](http://www.prosperusdetroit.org/wp-content/uploads/2018/04/quicken-loans-logo-300x60.png)
+[![Sponsor Quicken Loans](http://localhost:1313/wp-content/uploads/2018/04/quicken-loans-logo-300x60.png)
 ](https://www.quickenloans.com/)
 
-[![Sponsor Fifth Third Bank](http://www.prosperusdetroit.org/wp-content/uploads/2018/04/fifththirdbank.png)
+[![Sponsor Fifth Third Bank](http://localhost:1313/wp-content/uploads/2018/04/fifththirdbank.png)
 ](https://www.53.com/content/fifth-third/en.html)

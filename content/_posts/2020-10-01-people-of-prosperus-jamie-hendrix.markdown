@@ -26,7 +26,7 @@ BeHer is a women’s clothing store that offers a variety of tops, bottoms, one-
  Jamie Hendrix, the founder of BeHer, started out wanting to restore a storefront in her community of Morningside. She didn’t want to keep watching properties in her neighborhood get vandalized and decay over time. When she decided to launch BeHer she realized it would be the perfect addition to her community and the best use for the storefront she had already bought and renovated. Hendrix has a passion for fashion and improving her community. BeHer allows Hendrix to accomplish both of these goals in an amazing way. 
 
 
-<blockquote>![](http://www.prosperusdetroit.org/wp-content/uploads/2020/10/beher3-300x200.jpg)
+<blockquote>![](http://localhost:1313/wp-content/uploads/2020/10/beher3-300x200.jpg)
 “I purchased the building before I had the idea of a business. I was thinking about just getting the property and restoring it and then possibly leasing or renting it to someone or just selling it. We chose the building we are moving into because we actually live in that community. We are down the street within four blocks.”</blockquote>
 
 
@@ -36,7 +36,7 @@ After creating plans to restore the property Hendrix was motivated and decided s
 <blockquote>“I started revisiting my journals because I used to journal in college and I know that’s where my dreams died. I came across “Hustler’s Wife” and I had at the time made five logos and I had just started developing a business model. I was excited about it at the time, I mean really pushing it full monty but I didn’t go anywhere. It died off.”</blockquote>
 
 
-“Hustler’s Wife” was Hendrix’s original name for the company. However, she received a lot of backlash from lenders and others business mentors she was working with. They thought it may be hard to relate to as not everyone is a wife or a hustler. She decided to listen to their advice and sought counsel from a marketing firm that established the name BeHer. Hendrix took a liking to this more inclusive name for her company and went with it.![](http://www.prosperusdetroit.org/wp-content/uploads/2020/10/beher1-155x300.jpg)
+“Hustler’s Wife” was Hendrix’s original name for the company. However, she received a lot of backlash from lenders and others business mentors she was working with. They thought it may be hard to relate to as not everyone is a wife or a hustler. She decided to listen to their advice and sought counsel from a marketing firm that established the name BeHer. Hendrix took a liking to this more inclusive name for her company and went with it.![](http://localhost:1313/wp-content/uploads/2020/10/beher1-155x300.jpg)
 
 
 

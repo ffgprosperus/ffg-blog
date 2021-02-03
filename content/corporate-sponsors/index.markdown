@@ -7,7 +7,7 @@ type: page
 url: /corporate-sponsors/
 ---
 
-![Funders - ProsperUS Detroit](http://www.prosperusdetroit.org/wp-content/uploads/2016/10/Funders.png)
+![Funders - ProsperUS Detroit](http://localhost:1313/wp-content/uploads/2016/10/Funders.png)
 
 
 ProsperUS Detroit is committed to collaboration as a tool of economic development for working with small businesses and entrepreneurs. Right now, we are developing packages to provide opportunities for corporations and established businesses to support entrepreneurs in our program. In the meantime, we are open to contributions and enthusiastic support from the community.
@@ -66,4 +66,4 @@ All aspects of our program are eager to work with volunteers and corporate spons
 
 To learn more, please email [prosperus@swsol.org](mailto:prosperus@swsol.org).
 
-**Para una descripción general de ProsperUS Detroit en español, [visite la página](http://www.prosperusdetroit.org/informacion-en-espanol/).**
+**Para una descripción general de ProsperUS Detroit en español, [visite la página](http://localhost:1313/informacion-en-espanol/).**

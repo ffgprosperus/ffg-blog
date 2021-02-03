@@ -38,9 +38,9 @@ tags:
 ## [Vista Partnership / St. Anthony's Church, 3555 Vernor Hwy, Detroit, MI 48216](https://www.google.com/maps/place/3555+Vernor+Hwy,+Detroit,+MI+48216/@42.3233971,-83.0883883,19z/data=!3m1!4b1!4m5!3m4!1s0x883b32a29ccd18d9:0x6bb51a8ea315dcd!8m2!3d42.3233971!4d-83.0878411)
 
 
-[Join the ProsperUS team for our monthly networking event](http://www.prosperusdetroit.org/event/november-networking-night/) for Graduates, current participants, prospective students, and friends! We will be featuring authentic Salvadoran cuisine from Cecilia Ardon of Bendicion de Dios and Juan Carlos from Featherstone Moments will do a presentation on revenue-generating "Holiday Marketing Ideas." It's a great chance for entrepreneurs to prepare for the holiday season.
-[![november-networking-web](http://www.prosperusdetroit.org/wp-content/uploads/2016/10/November-Networking-Web.png)
-](http://www.prosperusdetroit.org/event/november-networking-night/)
+[Join the ProsperUS team for our monthly networking event](http://localhost:1313/event/november-networking-night/) for Graduates, current participants, prospective students, and friends! We will be featuring authentic Salvadoran cuisine from Cecilia Ardon of Bendicion de Dios and Juan Carlos from Featherstone Moments will do a presentation on revenue-generating "Holiday Marketing Ideas." It's a great chance for entrepreneurs to prepare for the holiday season.
+[![november-networking-web](http://localhost:1313/wp-content/uploads/2016/10/November-Networking-Web.png)
+](http://localhost:1313/event/november-networking-night/)
 
 
 ### Pudding Head Pop Up
@@ -77,7 +77,7 @@ Join [Pudding Head](https://www.facebook.com/Pudding-Head-295849907414052/posts/
 Participants in the ProsperUS Family:
 [Cutz Lounge](https://www.facebook.com/cutzlounge/) | [Uniquely Leverette](https://www.facebook.com/www.uniquely/) | MI New Brew | [Sisters On A Roll](http://sistersonaroll.biz/) | [Will U Party Event Planning](http://www.willuparty.com/) | [Norma G.'s Roll Up Truck](http://demitartgourmet.com/norma-gs/) | [Everything Detroit](http://www.everythingdetroitmi.com/) | Mama Suebee’s Kitchen
 
-[![Shop small in GRANDmont Rosedale](http://www.prosperusdetroit.org/wp-content/uploads/2016/11/14692181_10154154765624790_3527360254695353642_o.jpg)
+[![Shop small in GRANDmont Rosedale](http://localhost:1313/wp-content/uploads/2016/11/14692181_10154154765624790_3527360254695353642_o.jpg)
 ](https://www.facebook.com/events/1240707926000838/)
 
 
@@ -114,7 +114,7 @@ Participants in the ProsperUS Family:
 
 
 Posh Fashions will be hosting several vendors for a day of shopping and fun on Detroit's Lower Eastside.
-![ProsperUS Detroit - Posh Fashions](http://www.prosperusdetroit.org/wp-content/uploads/2016/11/PoshFashions.png)
+![ProsperUS Detroit - Posh Fashions](http://localhost:1313/wp-content/uploads/2016/11/PoshFashions.png)
 
 
 
@@ -132,9 +132,9 @@ Posh Fashions will be hosting several vendors for a day of shopping and fun on D
 
 
 This [dynamic community event](https://www.facebook.com/events/1812477685692351/) is an opportunity for residents to explore Southwest Detroit’s growing entertainment district around Bagley and Vernor Streets between 16th and 24th Street. Enjoy live dance, theatre, and music performances, shop for gifts, buy food and crafts from local vendors and shop for your tree and wreaths. Residents can top off their night with food and drinks at our supporting partners restaurants.
-Participants from the ProsperUS Family can be found at [Vista Partnership](http://www.vistapartnership.org/) with the [ProsperUS Staff](http://www.prosperusdetroit.org/prosperus-staff/).
+Participants from the ProsperUS Family can be found at [Vista Partnership](http://www.vistapartnership.org/) with the [ProsperUS Staff](http://localhost:1313/prosperus-staff/).
 
-[![Southwest Holiday Festival - Shop Small with ProsperUS Detroit](http://www.prosperusdetroit.org/wp-content/uploads/2016/11/14567369_1788041378136681_9140057900097692241_o.jpg)
+[![Southwest Holiday Festival - Shop Small with ProsperUS Detroit](http://localhost:1313/wp-content/uploads/2016/11/14567369_1788041378136681_9140057900097692241_o.jpg)
 ](https://www.facebook.com/events/1812477685692351/)
 
 

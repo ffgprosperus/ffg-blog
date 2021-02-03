@@ -27,7 +27,7 @@ Hooked on Books, owned by Yolanda Massey, is a childcare service.  During the y
 Hooked on Books focuses on social and emotional development in children.   
 
 
-<blockquote>“The philosophy of Hooked On Books Childcare is to provide all children with a comfortable learning environment where they can explore and use their creative skills to learn.”![](http://www.prosperusdetroit.org/wp-content/uploads/2020/09/hooked-on-books-2-300x180.png)
+<blockquote>“The philosophy of Hooked On Books Childcare is to provide all children with a comfortable learning environment where they can explore and use their creative skills to learn.”![](http://localhost:1313/wp-content/uploads/2020/09/hooked-on-books-2-300x180.png)
 
 </blockquote>
 

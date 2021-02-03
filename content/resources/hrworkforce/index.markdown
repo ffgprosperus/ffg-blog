@@ -49,7 +49,7 @@ SER Metro-Detroit manages workforce development in Detroit by providing employer
 
 
 
- 	  * **[Pre/During/Post-Hiring & On-boarding Checklist](http://www.prosperusdetroit.org/wp-content/uploads/2017/02/UpdatedHiringChecklist-1.doc)**
+ 	  * **[Pre/During/Post-Hiring & On-boarding Checklist](http://localhost:1313/wp-content/uploads/2017/02/UpdatedHiringChecklist-1.doc)**
  	  * **[Variety of Hiring Checklists](https://welcome.mit.edu/managers/checklists)**
  	  * **[Society for Human Resources Management](https://www.shrm.org/pages/default.aspx)**
  	  * **[On-boarding Resources](https://www.walkme.com/pages/onboarding-new-hires/?t=1&camp=tnavigation&eco=onboarding&adgr=New_Hires_Onboarding_BMM&pitch=Adoption-Promotion&keyw=onboarding%20template%20for%20new%20hires&matc=b&adin=198133501332&land=onboarding-new-hires&gclid=Cj0KCQjwytLKBRCXARIsAPchlXpxfc9-dxH1HbsS4nY9TupTJNC-3KabSJSGHkVwFjOsQJ-CRbKbD_EaAg4uEALw_wcB)**

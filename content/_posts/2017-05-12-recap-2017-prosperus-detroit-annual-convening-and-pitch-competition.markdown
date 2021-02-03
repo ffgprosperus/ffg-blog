@@ -36,7 +36,7 @@ The ProsperUS Detroit team was thrilled by the outpouring of support and enthusi
 
 
 
-![2017 ProsperUS Detroit Annual Convening and Pitch Competition - Program](http://www.prosperusdetroit.org/wp-content/uploads/2017/05/2017-AC-Program.png)
+![2017 ProsperUS Detroit Annual Convening and Pitch Competition - Program](http://localhost:1313/wp-content/uploads/2017/05/2017-AC-Program.png)
 
 
 

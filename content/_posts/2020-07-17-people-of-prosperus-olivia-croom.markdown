@@ -25,9 +25,9 @@ When Olivia Croom, one of the co-founders of Dancing Zebras, began treating chil
 <blockquote>“This one little girl had decay all over her mouth. We repaired her teeth then a year later she returned with decay all over again.” She realized, “These parents would bring their kids in with sippy cups full of Kool-aid and pop and so they were just bathing their teeth with sugary drinks.”</blockquote>
 
 
-![](http://www.prosperusdetroit.org/wp-content/uploads/2020/07/Screen-Shot-2020-07-08-at-2.12.40-PM-201x300.png)
-![](http://www.prosperusdetroit.org/wp-content/uploads/2020/07/Screen-Shot-2020-07-08-at-2.12.46-PM-196x300.png)
-![](http://www.prosperusdetroit.org/wp-content/uploads/2020/07/Screen-Shot-2020-07-17-at-10.48.06-AM-205x300.png)
+![](http://localhost:1313/wp-content/uploads/2020/07/Screen-Shot-2020-07-08-at-2.12.40-PM-201x300.png)
+![](http://localhost:1313/wp-content/uploads/2020/07/Screen-Shot-2020-07-08-at-2.12.46-PM-196x300.png)
+![](http://localhost:1313/wp-content/uploads/2020/07/Screen-Shot-2020-07-17-at-10.48.06-AM-205x300.png)
 Inspired, Croom went home and decided she would find a way to address this problem herself. She tinkered in her kitchen to come up with a drink that tasted delicious but did not contain sugar or artificial sweeteners, which can be harmful to teeth, especially children’s teeth. This drink became Dancing Zebras.
 
 

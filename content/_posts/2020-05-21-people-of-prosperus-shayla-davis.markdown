@@ -19,7 +19,7 @@ categories:
 
 
 
-My name is Shayla Unik Davis, Human Resources director for an architecture firm and creator of _Unik I Am, LLC. _Finances are something I had to learn to take seriously. Once upon a time, due to poor decisions and mistakes, I was barely able to make ends meet. My personal trials inspired me to start a small business to help other young w![](http://www.prosperusdetroit.org/wp-content/uploads/2020/05/Shayla-Davis-Picture-200x300.jpg)
+My name is Shayla Unik Davis, Human Resources director for an architecture firm and creator of _Unik I Am, LLC. _Finances are something I had to learn to take seriously. Once upon a time, due to poor decisions and mistakes, I was barely able to make ends meet. My personal trials inspired me to start a small business to help other young w![](http://localhost:1313/wp-content/uploads/2020/05/Shayla-Davis-Picture-200x300.jpg)
 omen in resume writing, tutoring, HR resources, and mentoring. 
 
 

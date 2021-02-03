@@ -12,7 +12,7 @@ categories:
 # **Remembering MONICA ECHEVERRI CASAREZ**
 
 
-Our beloved trainer Monica Echeverri Casarez passed away Easter Sunday due to complications caused by Covid-19. Monica taught our Southwest Detroit cohorts and her entrepreneurs loved her for many reasons. We remember Monica as a bright energetic personality with a sharp mind. She was a woman who valued justice and took action to help others. She had a way to entertain and inspire and we loved hearing her stories and insights.  A true community leader, Monica worked tirelessly to help those in need and we wish to honor her memory by ensuring that her work continues. We are mourning her loss, uplifting her beautiful spirit, and praying for her family and loved ones.![](http://www.prosperusdetroit.org/wp-content/uploads/2020/04/Monica-300x300.jpg)
+Our beloved trainer Monica Echeverri Casarez passed away Easter Sunday due to complications caused by Covid-19. Monica taught our Southwest Detroit cohorts and her entrepreneurs loved her for many reasons. We remember Monica as a bright energetic personality with a sharp mind. She was a woman who valued justice and took action to help others. She had a way to entertain and inspire and we loved hearing her stories and insights.  A true community leader, Monica worked tirelessly to help those in need and we wish to honor her memory by ensuring that her work continues. We are mourning her loss, uplifting her beautiful spirit, and praying for her family and loved ones.![](http://localhost:1313/wp-content/uploads/2020/04/Monica-300x300.jpg)
 
 
 She was an instructor, business coach, and consultant who enjoyed the varied contracts with her company, Blue Order, LLC. She was a native of Michigan with family descendants from Colombia, South America. Her work history includes decades in the non-profit sector with an emphasis in marketing and public relations and several social service programs developed from the ground up. Her Associate and Bachelor’s degrees are in Surgical Technology and Healthcare Management. She was a certified Surgical Technologist and Spanish language Medical Interpreter. One of her more recent projects, [Southwest Detroit Restaurant Week](http://swdetroitrestaurantweek.com/) was launched during Hispanic Heritage Month by Casarez and a team of volunteers to celebrate the diversity of Latin American cuisine found in Detroit.
@@ -59,7 +59,7 @@ ProsperUS Director, Chanell Scott Contreras shared the following remarks after h
 
 
 
-We are devastated by the loss of Monica. She was beloved as a trainer, community leader, and friend to so many people in Southwest Detroit and beyond. We hope that her admirable spirit motivates us all to greatness and to making the world a bit better, just as Monica did everyday. Monica was dedicated to each of the entrepreneurs she worked with, both through ProsperUs and her other work. Past students who need continued support should reach out to prosperus@swsol.org or [contact us](http://www.prosperusdetroit.org/contact-us/)
+We are devastated by the loss of Monica. She was beloved as a trainer, community leader, and friend to so many people in Southwest Detroit and beyond. We hope that her admirable spirit motivates us all to greatness and to making the world a bit better, just as Monica did everyday. Monica was dedicated to each of the entrepreneurs she worked with, both through ProsperUs and her other work. Past students who need continued support should reach out to prosperus@swsol.org or [contact us](http://localhost:1313/contact-us/)
 
 
 
@@ -75,4 +75,4 @@ And this touching [article from Henry Ford College](https://www.hfcc.edu/news/2
 
 
 
-Past students who need continued support should reach out to prosperus@swsol.org or [contact us](http://www.prosperusdetroit.org/contact-us/)
+Past students who need continued support should reach out to prosperus@swsol.org or [contact us](http://localhost:1313/contact-us/)

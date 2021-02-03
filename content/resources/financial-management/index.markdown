@@ -26,12 +26,12 @@ Keeping up with the financial side of owning a small business can feel like a ne
 
 
 
- 	  * **[Personal Monthly Budget](http://www.prosperusdetroit.org/wp-content/uploads/2020/10/personalmonthlybudget.pdf)**, Before starting your business it's important that you have a personal monthly budget to understand your finances, practice money management, and save for your business. A budget is a way for you to track your money and make estimates about future spending, and it is done by adding the money you earn and subtracting the money you spend. Use this template to begin your personal budget.
+ 	  * **[Personal Monthly Budget](http://localhost:1313/wp-content/uploads/2020/10/personalmonthlybudget.pdf)**, Before starting your business it's important that you have a personal monthly budget to understand your finances, practice money management, and save for your business. A budget is a way for you to track your money and make estimates about future spending, and it is done by adding the money you earn and subtracting the money you spend. Use this template to begin your personal budget.
 
 
- 	  * **[Balance Sheet Template](http://www.prosperusdetroit.org/wp-content/uploads/2017/02/Balance-Sheet-Template.xls),** which is vital to understand the financial position of your company, value your assets, and help the owners and managers to understand weaknesses and strengths to develop strategies.
- 	  * **[Statement of Cash Flows Template](http://www.prosperusdetroit.org/wp-content/uploads/2017/02/Cash-Flow-Statement-Template-final.xls)** that will provide you with an organizational model to understand the key cash drivers for your company´s operations and compare the Current Period with the Prior Period.
- 	  * **[Income Statement (Profits and Losses) Template](http://www.prosperusdetroit.org/wp-content/uploads/2017/02/Income-Statement-Template.xls),** an Excel Template to enter data of your revenues, costs, operating expenses, profits, which will help you to calculate your real income.
+ 	  * **[Balance Sheet Template](http://localhost:1313/wp-content/uploads/2017/02/Balance-Sheet-Template.xls),** which is vital to understand the financial position of your company, value your assets, and help the owners and managers to understand weaknesses and strengths to develop strategies.
+ 	  * **[Statement of Cash Flows Template](http://localhost:1313/wp-content/uploads/2017/02/Cash-Flow-Statement-Template-final.xls)** that will provide you with an organizational model to understand the key cash drivers for your company´s operations and compare the Current Period with the Prior Period.
+ 	  * **[Income Statement (Profits and Losses) Template](http://localhost:1313/wp-content/uploads/2017/02/Income-Statement-Template.xls),** an Excel Template to enter data of your revenues, costs, operating expenses, profits, which will help you to calculate your real income.
 
 
 
@@ -51,7 +51,7 @@ Keeping up with the financial side of owning a small business can feel like a ne
 
 
 
- 	  * **[Business Banking](http://www.prosperusdetroit.org/wp-content/uploads/2020/10/BusinessBanking.pdf)[ Account Options](http://www.prosperusdetroit.org/wp-content/uploads/2020/10/BusinessBanking.pdf)**, This document includes a directory of potential banks and credit unions to select from when identifying your banking needs, as well as other areas to consider when starting a checking account. It also covers the benefits of using a credit union for business banking.
+ 	  * **[Business Banking](http://localhost:1313/wp-content/uploads/2020/10/BusinessBanking.pdf)[ Account Options](http://localhost:1313/wp-content/uploads/2020/10/BusinessBanking.pdf)**, This document includes a directory of potential banks and credit unions to select from when identifying your banking needs, as well as other areas to consider when starting a checking account. It also covers the benefits of using a credit union for business banking.
 
 
 
@@ -90,7 +90,7 @@ Keeping up with the financial side of owning a small business can feel like a ne
 
 There are a variety of free accounting software options available to help you create financial statements and help track your business budget. Here are a few popular options:
 
-[Business Accounting Resources](http://www.prosperusdetroit.org/wp-content/uploads/2020/10/BusinessAccountingResources-2.pdf) This document compiles a variety of free accounting software, bookkeeping spreadsheets, and financial forecasting sites that may meet your needs. Accounting software is automated cloud or desktop technology that allows business owners and financial professionals to manage a small business’s books through their computer or phone. See more software options below.
+[Business Accounting Resources](http://localhost:1313/wp-content/uploads/2020/10/BusinessAccountingResources-2.pdf) This document compiles a variety of free accounting software, bookkeeping spreadsheets, and financial forecasting sites that may meet your needs. Accounting software is automated cloud or desktop technology that allows business owners and financial professionals to manage a small business’s books through their computer or phone. See more software options below.
 
 
 

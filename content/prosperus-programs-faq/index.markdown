@@ -46,7 +46,7 @@ ProsperUS offers step by step support for small business owners and first-time e
 
 There are other lending institutions in Detroit that ProsperUS partners with such as Invest Detroit, Michigan Women’s Foundation, Kiva, and the Center for Empowerment and Economic Development (CEED).
 
-ProsperUS also collaborates with community partners and other institutions including Techtown, The Accounting Aid Society, Lakeshore Legal Aid and Lifeline. We also make referrals to the Free Accounting Fridays program through the University of Michigan. Learn more here: [http://www.prosperusdetroit.org/community%20partners/](http://www.prosperusdetroit.org/community%20partners/)
+ProsperUS also collaborates with community partners and other institutions including Techtown, The Accounting Aid Society, Lakeshore Legal Aid and Lifeline. We also make referrals to the Free Accounting Fridays program through the University of Michigan. Learn more here: [http://localhost:1313/community%20partners/](http://localhost:1313/community%20partners/)
 
 Additionally, ProsperUS you must be a for-profit company to access ProsperUS services as we do not support nonprofits. Those seeking services for non-profit organizations should contact Michigan Community Resources or Nonprofit Enterprise at Work.
 
@@ -58,7 +58,7 @@ Additionally, ProsperUS you must be a for-profit company to access ProsperUS ser
 
 **What is the Entrepreneur Training Program?**
 
-[ProsperUS Entrepreneur Training](http://www.prosperusdetroit.org/entrepreneur-training/) is taught by professional business consultants and designed for people with minimal business experience. The 15-week program includes 12 two-hour-long class sessions and 10 one-on-one sessions. We work with community partners to host multiple cohorts each spring and fall in neighborhoods across the city of Detroit. Each cohort contains 10 to 12 participants. Additionally, participants are encouraged to meet with an in house personal financial coach to assess credit, budget, debt, and other personal financial goals.
+[ProsperUS Entrepreneur Training](http://localhost:1313/entrepreneur-training/) is taught by professional business consultants and designed for people with minimal business experience. The 15-week program includes 12 two-hour-long class sessions and 10 one-on-one sessions. We work with community partners to host multiple cohorts each spring and fall in neighborhoods across the city of Detroit. Each cohort contains 10 to 12 participants. Additionally, participants are encouraged to meet with an in house personal financial coach to assess credit, budget, debt, and other personal financial goals.
 
 
 
@@ -68,7 +68,7 @@ Anyone over 18 years old who lives in Detroit, Hamtramck, or Highland Park can a
 
 **How do I apply for the Entrepreneur Training Program?**
 
-Applications are open now and available here: [http://www.prosperusdetroit.org/entrepreneur-training](http://www.prosperusdetroit.org/entrepreneur-training/)**/**
+Applications are open now and available here: [http://localhost:1313/entrepreneur-training](http://localhost:1313/entrepreneur-training/)**/**
 
 
 
@@ -100,7 +100,7 @@ Each participant is asked to pay $75 - total. This is paid on the first day of c
 
 **What is the Business Services Program? **
 
-[ProsperUS Business Services](http://www.prosperusdetroit.org/business-services/), sometimes referred to as technical assistance, is ProsperUS’s project-based approach to supporting businesses through specific services and comprehensive coaching. You apply to ProsperUS Business Services and we connect you with service providers and grant money - you don’t pay us back! 
+[ProsperUS Business Services](http://localhost:1313/business-services/), sometimes referred to as technical assistance, is ProsperUS’s project-based approach to supporting businesses through specific services and comprehensive coaching. You apply to ProsperUS Business Services and we connect you with service providers and grant money - you don’t pay us back! 
 
 Our service providers are experts in their respective fields, however, you are welcome to propose your own preferred partner as well. The Business Service Program often comes with grant funding that covers up to 75% of the project cost.
 
@@ -140,7 +140,7 @@ We ask you to pay a fraction of the service cost. Generous grants allow us to co
 
 **What is the Micro-Lending Program?**
 
-[ProsperUS Micro-Lending](http://www.prosperusdetroit.org/micro-lending/) makes capital (money) available to people who wouldn't bea ble to apply via traditional funding routes. ProsperUS is a non-traditional lender that makes high-risk loans of up to $50,000. We work with you through the application process to help you get approved, and offer additional support through our Business Service Program as needed. We regularly collaborate with other funders for loans larger than $50,000. 
+[ProsperUS Micro-Lending](http://localhost:1313/micro-lending/) makes capital (money) available to people who wouldn't bea ble to apply via traditional funding routes. ProsperUS is a non-traditional lender that makes high-risk loans of up to $50,000. We work with you through the application process to help you get approved, and offer additional support through our Business Service Program as needed. We regularly collaborate with other funders for loans larger than $50,000. 
 
 
 

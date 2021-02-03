@@ -10,4 +10,4 @@ url: /resources-landing/
 ## RESOURCE SECTIONS
 
 
-ProsperUS offers business owners support in a variety of areas. These resources are available to anyone in need of support. You do NOT need to be a loan recipient or entrepreneur training program participant to access these resources. For additional support check out our [Business Services.](http://www.prosperusdetroit.org/business-services/)
+ProsperUS offers business owners support in a variety of areas. These resources are available to anyone in need of support. You do NOT need to be a loan recipient or entrepreneur training program participant to access these resources. For additional support check out our [Business Services.](http://localhost:1313/business-services/)

@@ -16,7 +16,7 @@ tags:
 - start-up
 ---
 
-![untitled-design-1](http://www.prosperusdetroit.org/wp-content/uploads/2016/12/Untitled-design-1-300x245.png)
+![untitled-design-1](http://localhost:1313/wp-content/uploads/2016/12/Untitled-design-1-300x245.png)
 
 
 Meet Katrina Taylor-Harris, someone we like to call a “Superstar.” In just over a year, she’s completed her Master in Social Work, completed the ProsperUS Detroit entrepreneur training class, secured a building for her daycare program, and closed on a micro-loan with ProsperUs. Her journey, to owning and operating First Step Children and Family Center, has been rare and unbelievably swift. It seems like just yesterday that our team was interviewing Katrina for a spot in one of the Focus:  HOPE training cohorts. Katrina shared that she was an employee of Focus: HOPE, an organization that has meant so much to people in Detroit over the years. Our program offers entrepreneur training and ongoing business support services to Focus: HOPE and their Business Village initiative as a seamless connection to their community involvement.
